@@ -1,0 +1,35 @@
+<html>
+    
+    <body bgcolor=lightblue>
+        <center>
+          
+        <h1> Disease Prediction </h1>
+            <h4> Hello, we can help you uncover what may be causing your symptoms. </h4><br>
+       
+                
+            <form method="POST", action="{{url_for('predict')}}"> 
+                <table style="background: Azure">
+            <tr>
+            <td>
+               <b> What is your Age?                              : <input type="text", name='a', placeholder=" "> <br><br>
+                   What is your Gender?                           : <input type="text", name='b', placeholder=" "> <br><br>
+                  What is your Height?                            : <input type="text", name='c', placeholder=" "> <br><br>
+            What is your Weight?                                  : <input type="text", name='d', placeholder=" "> <br><br>
+            How would you describe the intensity of your pain?    : <input type="text", name='e', placeholder=" "> <br><br>
+            How would you describe the severity of your symptom?  : <input type="text", name='f', placeholder=" "> <br><br>
+            Enter a Symptom                                       : <input type="text", name='g', placeholder=" "> <br><br><br></b>
+                </td>
+              </tr>
+            </table><br> 
+            <input type="submit", value='Predict!'>
+                <p style="color:green;font-size:150%;"> {{ data}}</p>
+             </form>
+                
+                           
+                
+    </center>
+    </body>
+    
+</html>
+
+<!--"font-size:160%;"-->

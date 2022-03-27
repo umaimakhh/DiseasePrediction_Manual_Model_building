@@ -1,0 +1,2115 @@
+Disease,Symptoms,Weight,Height,Intensity,Severity,Age,Gender,Season
+influenza,uncoordination,68,180,high,medium,24,female,Summer
+influenza,fever,68,170,low,medium,23,male,Summer
+influenza,pleuritic pain,68,162,low,low,24,male,Summer
+influenza,snuffle,68,162,high,medium,34,male,Summer
+influenza,throat sore,68,185,low,high,21,male,Winter
+influenza,malaise,68,185,medium,medium,21,female,Winter
+influenza,debilitation,68,185,medium,medium,25,female,Winter
+influenza,asthenia,68,185,low,high,25,female,Winter
+influenza,chill,68,185,medium,low,27,male,Winter
+influenza,scleral icterus,68,185,high,medium,27,female,Winter
+influenza,nasal flaring,68,188,medium,high,31,male,Winter
+influenza,dysuria,68,188,medium,low,31,female,Winter
+influenza,lip smacking,68,188,high,high,31,male,Winter
+influenza,headache,68,188,low,high,31,female,Winter
+influenza,snore,68,188,high,high,33,male,Winter
+influenza,green sputum,68,188,low,low,33,female,Winter
+influenza,shortness of breath,68,188,high,low,33,male,Winter
+influenza,distress respiratory,68,183,high,high,31,male,Winter
+influenza,blackout,68,183,low,low,31,male,Winter
+influenza,extreme exhaustion,68,183,low,medium,31,female,Winter
+gastritis,heme positive,140,183,high,medium,31,female,Winter
+gastritis,pain abdominal,140,183,low,low,33,male,Winter
+gastritis,vomiting,140,183,high,medium,33,female,Winter
+gastritis,disequilibrium,140,183,high,high,33,male,Winter
+gastritis,nausea,140,183,high,medium,33,female,Winter
+gastritis,intoxication,140,168,medium,medium,18,female,Summer
+gastritis,haemorrhage,140,168,high,high,18,female,Summer
+gastritis,guaiac positive,140,186,low,low,26,male,Winter
+gastritis,pain,140,162,high,medium,26,male,Summer
+gastritis,decreased body weight,140,182,high,high,22,male,Winter
+gastritis,sore to touch,140,172,low,low,31,female,Summer
+gastritis,dizziness,140,159,low,high,30,female,Summer
+hypercholesterolemia,pain,685,159,high,high,34,male,Summer
+hypercholesterolemia,pain chest,685,171,low,low,32,male,Winter
+hypercholesterolemia,sweat,685,162,low,low,22,male,Summer
+hypercholesterolemia,sweating increased,685,162,high,high,22,female,Summer
+hypercholesterolemia,nonsmoker,685,162,high,low,30,male,Summer
+hypercholesterolemia,pressure chest,685,162,high,high,30,male,Summer
+hypercholesterolemia,syncope,685,162,medium,high,34,male,Summer
+hypercholesterolemia,numbness,685,184,high,high,28,female,Winter
+hypercholesterolemia,chest discomfort,685,175,low,medium,28,female,Summer
+hypercholesterolemia,shortness of breath,685,175,high,high,28,male,Summer
+hypercholesterolemia,st segment depression,685,175,medium,low,28,female,Summer
+hypercholesterolemia,worry,685,175,high,high,28,male,Summer
+hypercholesterolemia,t wave inverted,685,175,medium,high,28,male,Summer
+hypercholesterolemia,bradycardia,685,175,high,low,28,female,Summer
+hypercholesterolemia,dyspnea,685,175,medium,low,28,female,Summer
+brain disease,seizure,290,175,high,high,28,female,Summer
+brain disease,hypometabolism,290,175,low,low,32,male,Summer
+brain disease,aura,290,175,high,low,32,female,Summer
+brain disease,muscle twitch,290,175,high,high,32,female,Summer
+brain disease,drowsiness,290,175,low,high,32,male,Summer
+brain disease,tremor,290,175,low,high,32,male,Summer
+brain disease,unresponsiveness,290,175,high,medium,32,female,Summer
+brain disease,hemiplegia,290,175,low,high,32,male,Summer
+brain disease,myoclonus,290,175,high,low,32,female,Summer
+brain disease,gurgle,290,189,high,high,31,male,Summer
+brain disease,sleepy,290,162,high,medium,54,female,Summer
+brain disease,lethargy,290,176,medium,high,20,female,Winter
+brain disease,wheelchair bound,290,176,high,medium,20,male,Winter
+insufficiency renal,shortness of breath,445,176,low,high,20,male,Winter
+insufficiency renal,hyperkalemia,445,176,high,medium,20,male,Winter
+insufficiency renal,orthopnea,445,176,high,high,22,female,Winter
+insufficiency renal,rale,445,176,low,low,22,female,Winter
+insufficiency renal,urgency of micturition,445,176,low,high,22,female,Winter
+insufficiency renal,ascites,445,176,high,high,22,female,Winter
+insufficiency renal,guaiac positive,445,176,low,low,22,male,Winter
+insufficiency renal,asthenia,445,176,low,low,26,female,Winter
+insufficiency renal,apyrexial,445,176,high,high,26,male,Winter
+insufficiency renal,mental status changes,445,176,high,low,26,female,Winter
+insufficiency renal,dyspnea,445,176,high,high,26,male,Winter
+insufficiency renal,difficulty,445,176,medium,high,30,female,Winter
+insufficiency renal,diarrhea,445,176,high,high,30,male,Winter
+insufficiency renal,hypotension,445,176,low,medium,30,male,Winter
+insufficiency renal,breath sounds decreased,445,176,high,high,30,male,Winter
+insufficiency renal,swelling,445,176,medium,low,30,female,Winter
+insufficiency renal,hypokinesia,445,176,high,high,34,male,Winter
+dehydration,fever,297,176,medium,high,34,female,Winter
+dehydration,diarrhea,297,163,high,low,27,female,Summer
+dehydration,vomiting,297,170,low,high,22,male,Summer
+dehydration,hypotension,297,187,high,medium,22,female,Summer
+dehydration,nausea,297,187,high,high,26,male,Summer
+dehydration,lightheadedness,297,162,low,low,24,female,Winter
+dehydration,unwell,297,162,low,high,24,female,Winter
+dehydration,mental status changes,297,162,high,medium,27,male,Winter
+dehydration,anorexia,297,162,low,high,24,female,Summer
+dehydration,asthenia,297,169,high,high,17,female,Winter
+dehydration,sensory discomfort,297,162,high,low,26,female,Summer
+dehydration,syncope,297,170,high,medium,43,female,Summer
+dehydration,lethargy,297,170,medium,high,47,female,Summer
+dehydration,dizziness,297,162,high,low,22,female,Summer
+dehydration,syncope,297,189,low,high,26,male,Summer
+dehydration,blackout,297,189,high,medium,30,male,Summer
+dehydration,history of - blackout,297,174,high,high,24,female,Summer
+hypothyroidism,shortness of breath,398,162,low,low,23,female,Summer
+hypothyroidism,prostatism,398,187,low,high,24,female,Summer
+hypothyroidism,drowsiness,398,187,high,medium,28,male,Summer
+hypothyroidism,sleepy,398,187,low,high,30,male,Summer
+hypothyroidism,hyponatremia,398,190,low,high,24,male,Winter
+hypothyroidism,fall,398,194,high,low,21,female,Summer
+hypothyroidism,unsteady gait,398,194,high,medium,21,male,Summer
+hypothyroidism,polyuria,398,194,high,high,21,female,Summer
+hypothyroidism,hypotension,398,194,medium,low,25,female,Summer
+hypothyroidism,difficulty,398,194,high,high,25,female,Summer
+hypothyroidism,syncope,398,182,low,medium,23,male,Summer
+hypothyroidism,nightmare,398,162,high,high,20,female,Summer
+hypothyroidism,speech slurred,398,162,medium,low,33,male,Summer
+hypothyroidism,weight gain,398,162,high,high,33,male,Summer
+hypothyroidism,asthenia,398,162,medium,medium,33,male,Summer
+hypothyroidism,fatigue,398,162,high,high,23,male,Winter
+hypothyroidism,tired,398,162,low,high,27,female,Winter
+hypothyroidism,agitation,398,162,high,low,27,male,Winter
+hypothyroidism,mental status changes,398,162,high,medium,31,female,Winter
+hypothyroidism,motor retardation,398,162,low,high,31,male,Winter
+hypothyroidism,vomiting,398,162,low,low,31,male,Winter
+hypothyroidism,numbness,398,162,high,high,28,male,Summer
+hypothyroidism,mass of body structure,398,162,low,medium,25,female,Summer
+stomach disease,pain abdominal,61,185,high,high,34,female,Summer
+stomach disease,fatigability,61,182,high,low,25,female,Winter
+stomach disease,prodrome,61,182,high,high,25,male,Winter
+stomach disease,vomiting,61,182,medium,medium,29,male,Winter
+stomach disease,nausea,61,182,high,high,29,female,Winter
+stomach disease,myalgia,61,182,low,high,29,male,Winter
+stomach disease,hyponatremia,61,162,high,low,41,female,Summer
+stomach disease,sore to touch,61,194,high,medium,33,female,Summer
+stomach disease,general discomfort,61,194,low,high,45,female,Summer
+stomach disease,dyspnea on exertion,61,194,low,low,49,female,Summer
+stomach disease,asterixis,61,194,high,high,53,female,Summer
+stomach disease,guaiac positive,61,194,low,medium,57,male,Summer
+stomach disease,numbness of hand,61,177,low,high,22,female,Summer
+stomach disease,headache,61,177,high,low,22,female,Summer
+stomach disease,photophobia,61,177,high,high,26,female,Summer
+other,para na,96,177,high,medium,30,male,Summer
+other,haemorrhage,96,162,medium,high,24,female,Summer
+other,abortion,96,168,high,high,24,female,Summer
+other,intermenstrual heavy bleeding,96,168,low,low,28,male,Summer
+other,muscle hypotonia,96,185,high,medium,22,male,Summer
+other,hypotonic,96,185,medium,high,26,female,Summer
+other,previous pregnancies na,96,167,high,low,23,female,Summer
+other,shortness of breath,96,167,medium,high,23,male,Summer
+other,fever,96,167,high,medium,23,male,Summer
+other,heartburn,96,167,low,high,23,male,Summer
+other,primigravida,96,167,high,low,23,male,Summer
+other,abnormally hard consistency,96,167,high,high,23,male,Summer
+other,proteinemia,96,189,low,medium,22,female,Summer
+deglutition disorder,paresthesia,126,172,low,high,24,male,Summer
+deglutition disorder,titubation,126,162,high,high,34,female,Summer
+deglutition disorder,dysarthria,126,170,low,low,26,female,Summer
+deglutition disorder,painful swallowing,126,162,high,medium,21,male,Summer
+deglutition disorder,hoarseness,126,162,high,high,21,male,Summer
+deglutition disorder,stridor,126,176,high,low,24,male,Summer
+deglutition disorder,spasm,126,162,medium,high,34,female,Summer
+deglutition disorder,asthenia,126,162,high,medium,34,female,Summer
+deglutition disorder,dysdiadochokinesia,126,164,low,high,24,female,Summer
+deglutition disorder,ataxia,126,164,high,low,28,male,Summer
+deglutition disorder,achalasia,126,172,high,high,24,male,Summer
+deglutition disorder,decreased body weight,126,175,low,medium,26,male,Summer
+deglutition disorder,stiffness,126,198,low,high,21,male,Summer
+deglutition disorder,lesion,126,194,high,high,30,female,Summer
+deglutition disorder,side pain,126,162,low,low,31,female,Summer
+other,prostatism,169,165,low,medium,21,female,Summer
+other,fall,169,156,high,high,34,male,Summer
+other,hirsutism,169,179,high,low,22,female,Summer
+other,sniffle,169,179,high,high,26,male,Summer
+other,distended abdomen,169,178,medium,medium,23,male,Summer
+other,vertigo,169,178,high,high,23,female,Summer
+other,numbness of hand,169,185,low,low,19,female,Summer
+other,bradykinesia,169,167,high,high,26,female,Summer
+other,pain,169,172,medium,medium,27,male,Summer
+other,syncope,169,172,high,high,27,male,Summer
+other,out of breath,169,180,high,high,24,male,Summer
+other,apyrexial,169,180,high,low,28,male,Summer
+other,urge incontinence,169,182,medium,medium,23,female,Summer
+other,lightheadedness,169,182,high,high,27,female,Summer
+chronic alcoholic intoxication,tremor,70,182,low,low,31,female,Summer
+chronic alcoholic intoxication,hallucinations auditory,70,182,high,high,30,male,Summer
+chronic alcoholic intoxication,suicidal,70,178,high,medium,22,male,Summer
+chronic alcoholic intoxication,hoard,70,185,low,high,22,female,Summer
+chronic alcoholic intoxication,irritable mood,70,166,low,low,27,female,Summer
+chronic alcoholic intoxication,feeling hopeless,70,162,high,high,26,male,Summer
+chronic alcoholic intoxication,feeling suicidal,70,162,low,medium,23,female,Summer
+chronic alcoholic intoxication,neologism,70,186,low,high,22,male,Summer
+chronic alcoholic intoxication,seizure,70,190,high,high,22,female,Summer
+chronic alcoholic intoxication,homelessness,70,183,high,low,26,male,Summer
+chronic alcoholic intoxication,sleeplessness,70,162,high,medium,22,male,Summer
+chronic alcoholic intoxication,unconscious state,70,165,medium,high,26,female,Summer
+chronic alcoholic intoxication,panic,70,181,high,low,24,female,Summer
+chronic alcoholic intoxication,breath sounds decreased,70,181,low,high,28,female,Summer
+chronic alcoholic intoxication,shortness of breath,70,181,high,medium,32,female,Summer
+respiratory disease,wheezing,835,182,medium,high,22,male,Summer
+respiratory disease,cough,835,182,high,low,26,female,Summer
+respiratory disease,shortness of breath,835,188,low,high,29,male,Summer
+respiratory disease,chest tightness,835,168,high,medium,25,female,Summer
+respiratory disease,non-productive cough,835,162,medium,high,21,male,Summer
+respiratory disease,pleuritic pain,835,163,high,high,21,male,Summer
+respiratory disease,productive cough,835,163,high,low,21,female,Summer
+respiratory disease,symptom aggravating factors,835,190,medium,medium,27,female,Summer
+respiratory disease,distress respiratory,835,180,high,high,21,female,Summer
+infection,fever,311,190,high,low,34,female,Summer
+infection,distress respiratory,311,190,low,high,38,female,Summer
+infection,hypotension,311,162,medium,medium,38,female,Summer
+infection,tachypnea,311,155,high,high,35,female,Summer
+infection,chill,311,168,low,low,18,female,Summer
+infection,lethargy,311,180,high,high,16,male,Summer
+infection,bradycardia,311,169,medium,medium,30,female,Summer
+infection,breech presentation,311,169,high,high,30,male,Summer
+infection,cyanosis,311,169,low,high,30,male,Summer
+infection,spontaneous rupture of membranes,311,181,high,low,30,female,Summer
+infection,haemorrhage,311,162,medium,medium,22,male,Summer
+infection,unresponsiveness,311,162,high,high,22,male,Summer
+infection,rale,311,170,high,low,25,male,Summer
+infection,apyrexial,311,162,low,high,34,male,Summer
+paranoia,hallucinations auditory,165,162,medium,medium,34,female,Summer
+paranoia,hallucinations visual,165,162,high,high,25,female,Summer
+paranoia,agitation,165,162,low,low,26,female,Summer
+paranoia,irritable mood,165,175,high,high,19,female,Summer
+paranoia,verbal auditory hallucinations,165,175,medium,medium,23,male,Summer
+paranoia,feeling suicidal,165,188,high,high,22,female,Summer
+paranoia,suicidal,165,188,low,high,29,female,Summer
+paranoia,terrify,165,188,high,low,34,female,Summer
+paranoia,neologism,165,182,medium,medium,22,female,Summer
+paranoia,homelessness,165,182,high,high,26,male,Summer
+paranoia,energy increased,165,182,high,low,30,male,Summer
+paranoia,mood depressed,165,182,low,high,34,male,Summer
+paranoia,scar tissue,165,187,medium,low,29,female,Summer
+paranoia,blackout,165,187,high,high,33,female,Summer
+paranoia,loose associations,165,176,low,medium,23,male,Summer
+stomach disease,abscess bacterial,56,176,high,high,23,female,Summer
+stomach disease,abdomen acute,56,176,medium,high,27,female,Summer
+stomach disease,air fluid level,56,175,high,low,20,female,Summer
+stomach disease,catching breath,56,190,low,medium,22,male,Summer
+stomach disease,abdominal tenderness,56,169,high,high,21,male,Summer
+stomach disease,nausea,56,175,medium,low,22,female,Summer
+stomach disease,sore to touch,56,160,high,high,20,female,Summer
+stomach disease,flatulence,56,181,high,medium,24,male,Summer
+stomach disease,diarrhea,56,162,low,high,28,male,Summer
+stomach disease,mass of body structure,56,162,medium,low,32,male,Summer
+stomach disease,apyrexial,56,178,high,high,22,female,Summer
+stomach disease,constipation,56,178,low,medium,22,female,Summer
+stomach disease,thicken,56,165,high,high,22,female,Summer
+stomach disease,gravida na,56,162,medium,high,19,male,Summer
+stomach disease,pain abdominal,56,170,high,low,26,female,Summer
+Cancer,mass of body structure,297,168,low,medium,23,male,Winter
+Cancer,lesion,297,173,high,high,28,female,Summer
+Cancer,pain chest,297,178,medium,low,25,male,Summer
+Cancer,hematuria,297,178,high,high,29,male,Summer
+Cancer,tumor cell invasion,297,178,high,medium,37,male,Summer
+Cancer,pain,297,162,low,high,31,male,Summer
+Cancer,anosmia,297,170,medium,low,28,female,Summer
+Cancer,thicken,297,164,high,high,20,male,Winter
+Cancer,metastatic lesion,297,165,low,medium,20,male,Summer
+Cancer,food intolerance,297,165,high,high,24,male,Summer
+Cancer,decreased body weight,297,165,medium,high,28,female,Summer
+Cancer,night sweat,297,173,high,low,28,male,Summer
+Cancer,hemianopsia homonymous,297,181,low,medium,22,female,Summer
+Cancer,satiety early,297,182,high,high,18,male,Summer
+Cancer,pain abdominal,297,159,medium,low,33,male,Summer
+Cancer,headache,297,171,high,high,28,female,Summer
+obesity,out of breath,76,162,high,medium,34,female,Summer
+obesity,sedentary,76,192,low,high,23,male,Summer
+obesity,angina pectoris,76,178,medium,low,23,male,Summer
+obesity,cough,76,195,high,high,29,female,Summer
+obesity,unhappy,76,175,low,medium,15,male,Winter
+obesity,labored breathing,76,175,high,high,19,male,Winter
+obesity,"hypothermia, natural",76,180,medium,high,24,female,Summer
+obesity,dyspnea,76,162,high,low,34,male,Summer
+obesity,hematocrit decreased,76,172,low,medium,42,male,Summer
+obesity,wheezing,76,172,high,high,46,male,Summer
+obesity,hypoxemia,76,167,medium,low,30,male,Summer
+obesity,renal angle tenderness,76,167,high,high,30,male,Summer
+obesity,feels hot/feverish,76,183,high,medium,26,male,Summer
+malignant neoplasms,pain,354,184,low,high,21,male,Summer
+malignant neoplasms,mass of body structure,354,179,medium,low,23,female,Summer
+malignant neoplasms,lesion,354,175,high,high,24,male,Winter
+malignant neoplasms,cushingoid facies,354,175,low,medium,28,female,Winter
+malignant neoplasms,cushingoid habitus,354,175,high,high,28,male,Winter
+malignant neoplasms,emphysematous change,354,179,medium,high,19,female,Summer
+malignant neoplasms,decreased body weight,354,160,high,low,41,female,Summer
+malignant neoplasms,ascites,354,164,low,medium,21,male,Summer
+malignant neoplasms,hoarseness,354,163,high,high,30,male,Summer
+malignant neoplasms,thicken,354,162,medium,low,23,female,Summer
+malignant neoplasms,hematuria,354,162,high,high,42,female,Summer
+heart disease,orthopnea,138,185,high,medium,34,male,Summer
+heart disease,fatigue,138,191,low,high,23,female,Summer
+heart disease,dyspnea on exertion,138,165,medium,low,40,female,Summer
+heart disease,dyspnea,138,185,high,high,22,female,Summer
+heart disease,shortness of breath,138,185,low,medium,26,male,Summer
+heart disease,pansystolic murmur,138,185,high,high,34,female,Summer
+heart disease,jugular venous distention,138,195,medium,high,23,male,Summer
+heart disease,systolic ejection murmur,138,192,high,low,22,male,Summer
+heart disease,hypotension,138,192,low,medium,26,female,Summer
+heart disease,angina pectoris,138,162,high,high,21,male,Summer
+heart disease,hypokinesia,138,167,medium,low,15,male,Summer
+ breast cancer,mass in breast,152,167,high,high,15,male,Summer
+ breast cancer,mass of body structure,152,167,high,medium,19,male,Summer
+ breast cancer,paresthesia,152,163,low,high,25,male,Summer
+ breast cancer,retropulsion,152,203,medium,low,28,female,Summer
+ breast cancer,erythema,152,162,high,high,25,male,Summer
+ breast cancer,difficulty,152,162,low,medium,29,female,Summer
+ breast cancer,lesion,152,162,high,high,34,female,Summer
+ breast cancer,estrogen use,152,162,medium,high,34,female,Summer
+ breast cancer,burning sensation,152,162,high,low,34,female,Summer
+ breast cancer,dyspnea,152,162,low,medium,34,male,Summer
+ breast cancer,swelling,152,162,high,high,34,female,Summer
+ breast cancer,formication,152,162,medium,low,34,female,Summer
+tonic - seizures,drowsiness,92,162,high,high,34,male,Summer
+tonic - seizures,lip smacking,92,162,high,medium,34,female,Summer
+tonic - seizures,myoclonus,92,162,low,high,22,male,Summer
+tonic - seizures,tremor,92,175,medium,low,20,female,Summer
+tonic - seizures,phonophobia,92,168,high,high,21,male,Summer
+tonic - seizures,rolling of eyes,92,168,low,medium,29,male,Summer
+tonic - seizures,sleepy,92,162,high,high,34,female,Summer
+tonic - seizures,hirsutism,92,169,medium,high,23,male,Summer
+tonic - seizures,moody,92,158,high,low,19,male,Summer
+tonic - seizures,muscle twitch,92,172,low,medium,18,male,Summer
+tonic - seizures,unresponsiveness,92,174,high,high,25,female,Summer
+tonic - seizures,headache,92,168,medium,low,32,male,Summer
+tonic - seizures,ambidexterity,92,170,high,high,34,male,Summer
+tonic - seizures,absences finding,92,162,high,medium,19,female,Summer
+tonic - seizures,spasm,92,162,low,high,31,male,Summer
+tonic - seizures,decreased body weight,92,162,medium,low,34,male,Summer
+tonic - seizures,tumor cell invasion,92,174,high,high,23,male,Summer
+transient ischemic attack,speech slurred,168,180,low,medium,23,male,Summer
+transient ischemic attack,dysarthria,168,180,high,high,32,female,Summer
+transient ischemic attack,facial paresis,168,176,medium,high,34,male,Summer
+transient ischemic attack,asthenia,168,176,high,low,34,female,Summer
+transient ischemic attack,neck stiffness,168,154,low,medium,18,male,Summer
+transient ischemic attack,vertigo,168,154,high,high,22,female,Summer
+transient ischemic attack,numbness,168,153,medium,low,18,male,Summer
+transient ischemic attack,lightheadedness,168,162,high,high,29,female,Summer
+transient ischemic attack,extrapyramidal sign,168,162,high,medium,34,female,Summer
+transient ischemic attack,Stahli's line,168,186,low,high,30,female,Summer
+transient ischemic attack,vision blurred,168,162,medium,low,31,male,Summer
+transient ischemic attack,headache,168,162,high,high,31,male,Summer
+transient ischemic attack,room spinning,168,162,low,medium,31,male,Summer
+transient ischemic attack,syncope,168,162,high,high,35,male,Summer
+transient ischemic attack,difficulty,168,162,medium,high,35,female,Summer
+transient ischemic attack,rambling speech,168,162,high,low,34,female,Summer
+transient ischemic attack,clumsiness,168,152,low,medium,32,male,Summer
+malignant neoplasms,hematuria,163,193,high,high,24,female,Summer
+malignant neoplasms,dysesthesia,163,162,medium,low,34,male,Summer
+malignant neoplasms,asthenia,163,162,high,high,34,female,Summer
+malignant neoplasms,polymyalgia,163,162,high,medium,20,female,Summer
+malignant neoplasms,passed stones,163,189,low,high,25,male,Summer
+malignant neoplasms,pleuritic pain,163,162,medium,low,21,male,Summer
+malignant neoplasms,guaiac positive,163,162,high,high,21,female,Summer
+malignant neoplasms,rale,163,162,low,medium,21,male,Summer
+malignant neoplasms,breath sounds decreased,163,162,high,high,25,female,Summer
+malignant neoplasms,urge incontinence,163,162,medium,high,25,female,Summer
+malignant neoplasms,dysuria,163,162,high,low,33,female,Summer
+malignant neoplasms,diarrhea,163,176,low,medium,34,male,Summer
+malignant neoplasms,vertigo,163,162,high,high,24,female,Summer
+malignant neoplasms,qt interval prolonged,163,162,medium,low,32,male,Summer
+malignant neoplasms,ataxia,163,183,high,high,24,male,Summer
+malignant neoplasms,paresis,163,172,high,medium,28,male,Summer
+malignant neoplasms,hemianopsia homonymous,163,162,low,high,29,male,Summer
+malignant neoplasms,tumor cell invasion,163,178,medium,low,23,female,Summer
+malignant neoplasms,hemodynamically stable,163,178,high,high,27,female,Summer
+malignant neoplasms,mass of body structure,163,162,low,medium,24,male,Summer
+malignant neoplasms,rhonchus,163,188,high,high,25,female,Summer
+malignant neoplasms,orthostasis,163,198,medium,high,19,female,Summer
+malignant neoplasms,decreased body weight,163,198,high,low,23,female,Summer
+embolism pulmonary,shortness of breath,294,197,low,medium,23,female,Summer
+embolism pulmonary,hypoxemia,294,197,high,high,31,female,Summer
+embolism pulmonary,tachypnea,294,176,medium,low,21,female,Summer
+embolism pulmonary,hematocrit decreased,294,162,high,high,24,male,Summer
+embolism pulmonary,pain chest,294,162,high,medium,18,male,Summer
+embolism pulmonary,dyspnea,294,162,low,high,22,female,Summer
+embolism pulmonary,pleuritic pain,294,162,medium,low,21,female,Summer
+embolism pulmonary,neck stiffness,294,162,high,high,33,female,Summer
+embolism pulmonary,yellow sputum,294,162,low,medium,33,male,Summer
+embolism pulmonary,productive cough,294,162,high,high,37,male,Summer
+embolism pulmonary,cicatrisation,294,162,medium,high,37,female,Summer
+embolism pulmonary,unresponsiveness,294,162,high,low,37,female,Summer
+embolism pulmonary,distress respiratory,294,162,low,medium,37,male,Summer
+embolism pulmonary,wheezing,294,162,high,high,20,female,Summer
+embolism pulmonary,apyrexial,294,162,medium,low,34,male,Summer
+embolism pulmonary,non-productive cough,294,188,high,high,27,female,Summer
+heart disease,shortness of breath,101,162,high,medium,16,male,Summer
+heart disease,pain,101,162,low,high,21,male,Summer
+heart disease,vomiting,101,162,medium,low,21,female,Summer
+heart disease,nausea,101,180,high,high,30,male,Summer
+heart disease,bradycardia,101,170,low,medium,28,male,Summer
+heart disease,pain abdominal,101,170,high,high,36,female,Summer
+heart disease,fever,101,170,medium,high,36,male,Summer
+heart disease,cicatrisation,101,162,high,low,21,female,Summer
+heart disease,mediastinal shift,101,190,low,medium,21,female,Summer
+heart disease,impaired cognition,101,190,high,high,26,male,Summer
+respiratory disease,hemiplegia,90,165,medium,low,22,female,Summer
+respiratory disease,snore,90,195,high,high,27,male,Summer
+respiratory disease,unresponsiveness,90,162,high,medium,28,male,Summer
+respiratory disease,productive cough,90,162,low,high,34,female,Summer
+respiratory disease,dyspnea,90,162,medium,low,24,male,Summer
+respiratory disease,tachypnea,90,157,high,high,22,female,Summer
+respiratory disease,hyperkalemia,90,162,low,medium,19,male,Summer
+respiratory disease,hypokinesia,90,162,high,high,19,male,Summer
+respiratory disease,sinus rhythm,90,162,medium,high,19,female,Summer
+respiratory disease,general unsteadiness,90,162,high,low,19,female,Summer
+respiratory disease,bruit,90,162,low,medium,19,male,Summer
+respiratory disease,consciousness clear,90,162,high,high,19,female,Summer
+respiratory disease,shortness of breath,90,162,medium,low,19,male,Summer
+respiratory disease,lesion,90,162,high,high,19,male,Summer
+respiratory disease,redness,90,162,high,medium,34,female,Summer
+arthritis,pain,405,165,low,high,23,female,Summer
+arthritis,food intolerance,405,165,medium,low,27,female,Summer
+arthritis,numbness of hand,405,165,high,high,35,male,Summer
+arthritis,general discomfort,405,162,low,medium,34,male,Summer
+arthritis,drowsiness,405,188,high,high,27,male,Summer
+arthritis,asthenia,405,176,medium,high,24,female,Summer
+arthritis,nonsmoker,405,175,high,low,26,female,Summer
+arthritis,non-productive cough,405,162,low,medium,34,male,Summer
+arthritis,polydypsia,405,162,high,high,34,female,Summer
+arthritis,stiffness,405,162,medium,low,34,female,Summer
+arthritis,unsteady gait,405,162,high,high,34,male,Summer
+brain disease,clonus,76,162,high,medium,34,female,Summer
+brain disease,egophony,76,162,low,high,34,male,Summer
+brain disease,facial paresis,76,162,medium,low,34,female,Summer
+brain disease,aphagia,76,162,high,high,34,male,Summer
+brain disease,muscle twitch,76,162,low,medium,41,male,Summer
+brain disease,paralyse,76,173,high,high,24,male,Summer
+brain disease,low back pain,76,173,medium,high,28,male,Summer
+brain disease,charleyhorse,76,159,high,low,17,male,Summer
+malignant neoplasms,thicken,94,170,low,medium,21,male,Summer
+malignant neoplasms,tumor cell invasion,94,162,high,high,25,female,Summer
+malignant neoplasms,metastatic lesion,94,170,medium,low,21,female,Summer
+malignant neoplasms,pain neck,94,170,high,high,25,female,Summer
+malignant neoplasms,lung nodule,94,162,high,medium,20,female,Summer
+malignant neoplasms,pain,94,170,low,high,36,male,Summer
+malignant neoplasms,pain abdominal,94,170,medium,low,40,female,Summer
+malignant neoplasms,food intolerance,94,184,high,high,23,male,Summer
+malignant neoplasms,mass of body structure,94,160,low,medium,19,female,Summer
+malignant neoplasms,atypia,94,170,high,high,23,male,Summer
+colon disease,lesion,94,165,medium,high,20,male,Summer
+colon disease,prostatism,94,194,high,low,23,male,Summer
+colon disease,constipation,94,167,low,medium,22,male,Summer
+colon disease,general discomfort,94,167,high,high,22,female,Summer
+colon disease,diarrhea,94,167,medium,low,22,male,Summer
+colon disease,pain abdominal,94,167,high,high,22,female,Summer
+colon disease,urinary hesitation,94,167,high,medium,22,female,Summer
+colon disease,dizzy spells,94,162,low,high,21,male,Summer
+colon disease,shooting pain,94,207,medium,low,26,female,Summer
+colon disease,bradycardia,94,170,high,high,24,male,Summer
+colon disease,vomiting,94,170,low,medium,19,female,Summer
+colon disease,systolic ejection murmur,94,170,high,high,23,male,Summer
+colon disease,nausea,94,173,medium,high,22,female,Summer
+colon disease,hyperemesis,94,173,high,low,26,female,Summer
+colon disease,polydypsia,94,170,low,medium,22,male,Summer
+Cancer,lesion,105,170,high,high,26,male,Summer
+Cancer,fever,105,176,medium,low,27,male,Summer
+Cancer,welt,105,176,high,high,27,male,Summer
+Cancer,transaminitis,105,178,high,medium,30,male,Summer
+Cancer,decreased body weight,105,178,low,high,34,male,Summer
+Cancer,ataxia,105,177,medium,low,19,male,Summer
+Cancer,tinnitus,105,177,high,high,23,female,Summer
+Cancer,hydropneumothorax,105,170,low,medium,21,female,Summer
+Cancer,superimposition,105,170,high,high,25,male,Summer
+Cancer,haemoptysis,105,162,medium,high,21,female,Summer
+Cancer,fatigue,105,162,high,low,21,female,Summer
+Cancer,tired,105,162,low,medium,29,male,Summer
+Cancer,polydypsia,105,162,high,high,29,female,Summer
+Cancer,difficulty passing urine,105,162,medium,low,29,male,Summer
+anemia,chill,544,162,high,high,29,male,Summer
+anemia,guaiac positive,544,162,high,medium,41,female,Summer
+anemia,monoclonal,544,178,low,high,23,female,Summer
+anemia,ecchymosis,544,178,medium,low,27,female,Summer
+anemia,tumor cell invasion,544,178,high,high,31,female,Summer
+anemia,haemorrhage,544,178,low,medium,35,female,Summer
+anemia,pallor,544,169,high,high,19,male,Summer
+anemia,asthenia,544,169,medium,high,23,female,Summer
+anemia,fatigue,544,169,high,low,27,female,Summer
+anemia,heme positive,544,162,low,medium,17,female,Summer
+anemia,pain back,544,173,high,high,21,male,Summer
+anemia,orthostasis,544,173,medium,low,21,male,Summer
+anemia,hyponatremia,544,173,high,high,21,male,Summer
+anemia,dizziness,544,162,high,medium,34,male,Summer
+anemia,shortness of breath,544,183,low,high,24,male,Summer
+anemia,pain,544,176,medium,low,26,male,Summer
+anemia,rhonchus,544,185,high,high,23,male,Summer
+anemia,arthralgia,544,175,low,medium,29,male,Summer
+anemia,swelling,544,162,high,high,31,female,Summer
+anemia,transaminitis,544,165,medium,high,22,female,Summer
+anemia,breakthrough pain,140,184,high,high,24,male,Summer
+anemia,pain back,140,180,medium,high,22,male,Summer
+anemia,pain,140,163,high,low,24,female,Summer
+anemia,shortness of breath,140,163,low,medium,28,male,Summer
+anemia,snuffle,140,160,high,high,19,female,Summer
+anemia,pain chest,140,160,medium,low,19,female,Summer
+anemia,pain abdominal,140,160,high,high,27,male,Summer
+anemia,hepatosplenomegaly,140,162,high,medium,25,male,Summer
+anemia,green sputum,140,172,low,high,23,male,Summer
+anemia,apyrexial,140,172,medium,low,27,male,Summer
+anemia,headache,140,175,high,high,19,female,Summer
+heart disease,pain chest,1284,162,low,medium,34,male,Summer
+heart disease,angina pectoris,1284,162,high,high,34,male,Summer
+heart disease,shortness of breath,1284,180,medium,high,30,male,Summer
+heart disease,hypokinesia,1284,180,high,low,34,female,Summer
+heart disease,sweat,1284,169,low,medium,22,female,Summer
+heart disease,sweating increased,1284,162,high,high,27,male,Summer
+heart disease,pressure chest,1284,162,medium,low,34,male,Summer
+heart disease,dyspnea on exertion,1284,169,high,high,23,male,Summer
+heart disease,orthopnea,1284,169,high,medium,23,male,Summer
+heart disease,chest tightness,1284,156,low,high,20,male,Summer
+cholecystitis,moan,66,176,medium,low,17,male,Summer
+cholecystitis,nausea,66,168,high,high,17,male,Summer
+cholecystitis,pain abdominal,66,162,low,medium,14,male,Summer
+cholecystitis,Murphy's sign,66,172,high,high,26,female,Summer
+cholecystitis,flatulence,66,178,medium,high,34,male,Summer
+cholecystitis,colic abdominal,66,175,high,low,30,female,Summer
+cholecystitis,pain,66,175,low,medium,34,female,Summer
+cholecystitis,ascites,66,174,high,high,29,female,Summer
+cholecystitis,diarrhea,66,173,medium,low,24,female,Summer
+cholecystitis,qt interval prolonged,66,169,high,high,38,male,Summer
+cholecystitis,cardiovascular finding,66,181,high,medium,23,female,Summer
+cholecystitis,cardiovascular event,66,163,low,high,22,female,Summer
+cholecystitis,groggy,66,163,medium,low,26,female,Summer
+cholecystitis,sinus rhythm,66,178,high,high,34,male,Summer
+cholecystitis,gasping for breath,66,178,low,medium,34,male,Summer
+cholecystitis,constipation,66,177,high,high,34,male,Summer
+cholecystitis,feces in rectum,66,162,medium,high,34,female,Summer
+cholecystitis,abnormally hard consistency,66,160,high,low,34,male,Summer
+psychotic disorder,suicidal,267,162,low,medium,21,male,Summer
+psychotic disorder,hallucinations auditory,267,162,high,high,33,male,Summer
+psychotic disorder,feeling suicidal,267,180,medium,low,24,male,Summer
+psychotic disorder,hallucinations visual,267,162,high,high,39,female,Summer
+psychotic disorder,motor retardation,267,162,high,medium,23,female,Summer
+psychotic disorder,blackout,267,162,low,high,21,female,Summer
+psychotic disorder,verbal auditory hallucinations,267,162,medium,low,21,male,Summer
+psychotic disorder,feeling hopeless,267,162,high,high,30,female,Summer
+psychotic disorder,irritable mood,267,158,low,medium,32,female,Summer
+psychotic disorder,agitation,267,185,high,high,21,female,Summer
+psychotic disorder,tremor,267,175,medium,high,22,female,Summer
+psychotic disorder,catatonia,267,172,high,low,21,male,Summer
+psychotic disorder,weepiness,267,172,low,medium,21,male,Summer
+psychotic disorder,homelessness,267,172,high,high,25,male,Summer
+psychotic disorder,sleeplessness,267,172,medium,low,25,female,Summer
+psychotic disorder,withdraw,267,180,high,high,22,female,Summer
+psychotic disorder,energy increased,267,166,high,medium,26,female,Summer
+psychotic disorder,intoxication,267,160,low,high,26,male,Summer
+psychotic disorder,worry,267,181,medium,low,24,female,Summer
+psychotic disorder,behavior hyperactive,267,181,high,high,24,male,Summer
+psychotic disorder,patient non compliance,267,181,low,medium,24,female,Summer
+psychotic disorder,mood depressed,267,181,high,high,24,female,Summer
+psychotic disorder,terrify,267,181,medium,high,24,male,Summer
+psychotic disorder,nightmare,267,162,high,low,20,male,Summer
+psychotic disorder,consciousness clear,267,162,low,medium,28,male,Summer
+blood related disease,hypokinesia,67,162,high,high,18,female,Summer
+blood related disease,anorexia,67,164,medium,low,27,male,Summer
+blood related disease,hypertonicity,67,184,high,high,20,female,Summer
+blood related disease,shortness of breath,67,187,high,medium,31,female,Summer
+blood related disease,hypoalbuminemia,67,162,low,high,32,male,Summer
+blood related disease,pruritus,67,162,medium,low,25,male,Summer
+blood related disease,sore to touch,67,176,high,high,34,female,Summer
+blood related disease,hemodynamically stable,67,176,low,medium,34,female,Summer
+blood related disease,facial paresis,67,176,high,high,34,female,Summer
+blood related disease,vomiting,67,176,medium,high,34,male,Summer
+blood related disease,stool color yellow,67,176,high,low,34,female,Summer
+kidney disease,vomiting,280,176,low,medium,34,male,Summer
+kidney disease,orthopnea,280,165,high,high,34,female,Summer
+kidney disease,hyperkalemia,280,180,medium,low,34,female,Summer
+kidney disease,oliguria,280,162,high,high,21,female,Summer
+kidney disease,jugular venous distention,280,162,high,medium,23,female,Summer
+kidney disease,nausea,280,188,low,high,21,female,Summer
+kidney disease,shortness of breath,280,188,medium,low,21,female,Summer
+kidney disease,mental status changes,280,188,high,high,21,male,Summer
+kidney disease,diarrhea,280,188,low,medium,25,female,Summer
+kidney disease,asthenia,280,162,high,high,21,male,Summer
+kidney disease,chest tightness,280,162,medium,high,25,female,Summer
+kidney disease,malaise,280,190,high,low,34,male,Summer
+kidney disease,chill,280,190,low,medium,34,male,Summer
+kidney disease,rale,280,162,high,high,28,male,Summer
+kidney disease,fever,280,188,medium,low,28,female,Summer
+kidney disease,pleuritic pain,280,164,high,high,27,male,Summer
+kidney disease,apyrexial,280,164,high,medium,32,female,Summer
+kidney disease,guaiac positive,280,169,low,high,22,male,Summer
+kidney disease,swelling,280,169,medium,low,26,female,Summer
+kidney disease,catatonia,280,190,high,high,22,female,Summer
+kidney disease,unresponsiveness,280,190,low,medium,26,female,Summer
+kidney disease,yellow sputum,280,167,high,high,25,female,Summer
+depressive disorder,feeling suicidal,1337,167,medium,high,29,male,Summer
+depressive disorder,suicidal,1337,167,high,low,33,male,Summer
+depressive disorder,hallucinations auditory,1337,170,low,medium,21,female,Summer
+depressive disorder,feeling hopeless,1337,175,high,high,27,male,Summer
+depressive disorder,weepiness,1337,177,medium,low,16,female,Summer
+depressive disorder,sleeplessness,1337,162,high,high,16,female,Summer
+depressive disorder,motor retardation,1337,162,high,medium,20,female,Summer
+depressive disorder,irritable mood,1337,168,low,high,23,male,Summer
+depressive disorder,blackout,1337,168,medium,low,20,female,Summer
+depressive disorder,mood depressed,1337,170,high,high,15,female,Summer
+depressive disorder,hallucinations visual,1337,170,low,medium,19,male,Summer
+depressive disorder,worry,1337,170,high,high,19,female,Summer
+depressive disorder,agitation,1337,150,medium,high,18,female,Summer
+depressive disorder,tremor,1337,181,high,low,19,female,Summer
+depressive disorder,intoxication,1337,181,low,medium,23,female,Summer
+depressive disorder,verbal auditory hallucinations,1337,178,high,high,33,female,Summer
+depressive disorder,energy increased,1337,162,medium,low,21,female,Summer
+depressive disorder,difficulty,1337,162,high,high,25,male,Summer
+depressive disorder,nightmare,1337,202,high,medium,23,male,Summer
+depressive disorder,unable to concentrate,1337,178,low,high,22,female,Summer
+depressive disorder,homelessness,1337,183,medium,low,19,female,Summer
+myocardial infarction,pain chest,759,183,high,high,23,female,Summer
+myocardial infarction,st segment elevation,759,172,low,medium,26,female,Summer
+myocardial infarction,sweat,759,192,high,high,29,female,Summer
+myocardial infarction,sweating increased,759,172,medium,high,26,female,Summer
+myocardial infarction,shortness of breath,759,170,high,low,26,female,Summer
+myocardial infarction,st segment depression,759,170,low,medium,30,male,Summer
+myocardial infarction,hypokinesia,759,170,high,high,34,female,Summer
+myocardial infarction,angina pectoris,759,179,medium,low,34,female,Summer
+myocardial infarction,pressure chest,759,190,high,high,26,male,Summer
+myocardial infarction,t wave inverted,759,190,high,medium,34,male,Summer
+myocardial infarction,orthopnea,759,174,low,high,24,female,Summer
+myocardial infarction,rale,759,174,medium,low,32,male,Summer
+myocardial infarction,chest tightness,759,162,high,high,18,male,Summer
+myocardial infarction,presence of q wave,759,177,low,medium,24,female,Summer
+myocardial infarction,palpitation,759,178,high,high,24,male,Winter
+myocardial infarction,dyspnea,759,178,medium,high,24,male,Winter
+myocardial infarction,chest discomfort,759,178,high,low,28,male,Winter
+myocardial infarction,bradycardia,759,178,low,medium,28,female,Winter
+myocardial infarction,syncope,759,166,high,high,25,male,Summer
+obesity,pain,228,168,medium,low,23,male,Summer
+obesity,catatonia,228,167,high,high,25,female,Summer
+obesity,snore,228,175,high,medium,22,male,Winter
+obesity,pain chest,228,175,low,high,22,male,Winter
+obesity,r wave feature,228,175,medium,low,26,male,Winter
+obesity,has religious belief,228,175,high,high,28,female,Winter
+obesity,shortness of breath,228,175,low,medium,28,female,Winter
+obesity,fatigue,228,173,high,high,23,male,Summer
+obesity,tired,228,173,medium,high,23,male,Summer
+obesity,overweight,228,162,high,low,22,male,Summer
+obesity,systolic murmur,228,178,low,medium,24,male,Summer
+obesity,mood depressed,228,178,high,high,28,male,Summer
+obesity,ecchymosis,228,179,medium,low,21,female,Summer
+infection,fever,597,179,high,high,29,male,Summer
+infection,dysuria,597,166,high,medium,26,male,Summer
+infection,hematuria,597,190,low,high,21,male,Summer
+infection,renal angle tenderness,597,190,medium,low,25,female,Summer
+infection,lethargy,597,190,high,high,29,male,Summer
+infection,asthenia,597,170,low,medium,28,female,Summer
+infection,hyponatremia,597,168,high,high,18,female,Summer
+infection,hemodynamically stable,597,175,medium,high,31,female,Summer
+infection,distress respiratory,597,177,high,low,22,female,Summer
+infection,difficulty passing urine,597,162,low,medium,34,female,Summer
+infection,mental status changes,597,160,high,high,21,female,Summer
+infection,consciousness clear,597,160,medium,low,21,female,Summer
+other,left atrial hypertrophy,56,173,high,high,22,female,Summer
+other,sweat,56,173,high,medium,22,male,Summer
+other,sweating increased,56,170,low,high,23,female,Summer
+other,alcohol binge episode,56,162,medium,low,35,female,Summer
+other,pressure chest,56,180,high,high,27,male,Summer
+other,scar tissue,56,180,low,medium,31,female,Summer
+other,cardiovascular finding,56,162,high,high,30,female,Summer
+other,cardiovascular event,56,162,medium,high,22,male,Summer
+other,orthostasis,56,162,high,low,26,female,Summer
+other,shortness of breath,56,194,low,medium,22,male,Summer
+other,t wave inverted,56,194,high,high,26,male,Summer
+other,vomiting,56,169,medium,low,19,female,Summer
+other,pain abdominal,56,190,high,high,19,male,Summer
+arthritis,hot flush,124,162,high,medium,45,female,Summer
+arthritis,pain,124,162,low,high,45,male,Summer
+arthritis,redness,124,163,medium,low,20,female,Summer
+arthritis,swelling,124,185,high,high,23,male,Winter
+arthritis,erythema,124,162,low,medium,35,female,Winter
+arthritis,emphysematous change,124,183,high,high,19,female,Winter
+arthritis,sore to touch,124,183,medium,high,23,male,Winter
+arthritis,hypokinesia,124,160,high,low,19,female,Summer
+arthritis,ascites,124,160,low,medium,19,male,Summer
+arthritis,patient non compliance,124,160,high,high,19,male,Summer
+diabetes,sore to touch,104,160,medium,low,19,female,Summer
+diabetes,pruritus,104,160,high,high,19,female,Summer
+diabetes,feeling strange,104,160,high,medium,19,male,Summer
+diabetes,pustule,104,160,low,high,16,male,Summer
+diabetes,cushingoid facies,104,160,medium,low,20,male,Summer
+diabetes,cushingoid habitus,104,160,high,high,20,female,Summer
+diabetes,decreased body weight,104,160,low,medium,24,male,Summer
+diabetes,mood depressed,104,160,high,high,24,male,Summer
+diabetes,estrogen use,104,165,medium,high,25,male,Summer
+diabetes,wheezing,104,165,high,low,25,female,Summer
+diabetes,ascites,104,165,low,medium,25,male,Summer
+diabetes,seizure,104,165,high,high,25,male,Summer
+colon disease,fecaluria,114,165,medium,low,25,male,Summer
+colon disease,constipation,114,163,high,high,25,male,Summer
+colon disease,abscess bacterial,114,163,high,medium,29,male,Summer
+colon disease,heme positive,114,162,low,high,24,female,Summer
+colon disease,lightheadedness,114,162,medium,low,36,female,Summer
+colon disease,diarrhea,114,162,high,high,36,female,Summer
+colon disease,haemorrhage,114,162,low,medium,48,male,Summer
+colon disease,pain,114,162,high,high,52,male,Summer
+colon disease,projectile vomiting,114,162,medium,high,52,female,Summer
+colon disease,pneumatouria,114,162,high,low,20,female,Summer
+colon disease,cystic lesion,114,162,low,medium,28,female,Summer
+colon disease,anorexia,114,162,high,high,22,male,Summer
+colon disease,nausea,114,184,medium,low,22,female,Summer
+colon disease,feeling suicidal,114,184,high,high,30,female,Summer
+colon disease,feeling hopeless,114,153,high,medium,18,female,Summer
+failure kidney,orthopnea,140,153,low,high,18,female,Summer
+failure kidney,oliguria,140,153,medium,low,18,male,Summer
+failure kidney,slowing of urinary stream,140,153,high,high,18,female,Summer
+failure kidney,extreme exhaustion,140,153,low,medium,18,female,Summer
+failure kidney,unresponsiveness,140,162,high,high,15,male,Summer
+failure kidney,hypotension,140,162,medium,high,19,female,Summer
+failure kidney,enuresis,140,176,high,low,22,female,Summer
+failure kidney,shortness of breath,140,162,low,medium,26,male,Summer
+failure kidney,haemorrhage,140,162,high,high,26,female,Winter
+failure kidney,prostatism,140,162,medium,low,26,male,Winter
+failure kidney,no status change,140,162,high,high,26,female,Winter
+failure kidney,bedridden,140,174,high,medium,37,male,Summer
+failure kidney,bedridden,140,162,low,high,19,female,Summer
+failure kidney,fatigue,140,173,medium,low,23,female,Summer
+brain disease,hallucinations auditory,147,166,high,high,22,female,Summer
+brain disease,hypersomnolence,147,192,low,medium,24,male,Summer
+brain disease,irritable mood,147,186,high,high,27,male,Summer
+brain disease,verbal auditory hallucinations,147,186,medium,high,30,male,Summer
+brain disease,patient non compliance,147,186,high,low,34,female,Summer
+brain disease,agitation,147,162,low,medium,26,female,Summer
+brain disease,suicidal,147,181,high,high,23,male,Winter
+brain disease,worry,147,181,medium,low,19,female,Summer
+brain disease,hallucinations visual,147,181,high,high,19,female,Summer
+brain disease,underweight,147,190,high,medium,17,female,Summer
+brain disease,underweight,147,162,low,high,22,male,Summer
+brain disease,homelessness,147,170,medium,low,30,male,Summer
+ulcer,systolic murmur,42,181,high,high,27,female,Summer
+ulcer,frail,42,187,low,medium,23,female,Summer
+ulcer,fever,42,165,high,high,34,female,Winter
+brain disease,uncoordination,103,165,medium,high,38,female,Winter
+brain disease,asterixis,103,165,high,low,40,female,Winter
+brain disease,haemorrhage,103,165,low,medium,44,male,Winter
+brain disease,drowsiness,103,165,high,high,48,male,Winter
+brain disease,sleepy,103,182,medium,low,22,male,Summer
+brain disease,absences finding,103,162,high,high,17,male,Summer
+brain disease,posturing,103,162,high,medium,17,male,Summer
+brain disease,aura,103,162,low,high,25,male,Summer
+brain disease,tonic seizures,103,162,medium,low,29,female,Winter
+brain disease,debilitation,103,173,high,high,24,male,Summer
+brain disease,consciousness clear,103,159,low,medium,21,female,Summer
+brain disease,unresponsiveness,103,159,high,high,21,male,Summer
+brain disease,thicken,103,159,medium,high,25,male,Summer
+brain disease,hypokinesia,103,159,high,low,25,female,Summer
+affect labile,extreme exhaustion,45,160,low,medium,30,male,Summer
+affect labile,sleeplessness,45,160,high,high,30,female,Summer
+affect labile,enuresis,45,180,medium,low,20,male,Summer
+affect labile,patient non compliance,45,166,high,high,24,male,Summer
+affect labile,feeling hopeless,45,180,high,medium,26,female,Summer
+affect labile,hallucinations visual,45,180,low,high,30,male,Summer
+affect labile,bedridden,45,180,medium,high,42,male,Summer
+affect labile,bedridden,45,180,high,low,42,female,Summer
+affect labile,prostatism,45,177,low,high,23,female,Summer
+Cancer,hematuria,163,177,high,medium,27,male,Summer
+Cancer,dysesthesia,163,177,medium,high,31,male,Summer
+Cancer,asthenia,163,179,high,low,21,female,Summer
+Cancer,polymyalgia,163,156,low,high,19,male,Summer
+Cancer,passed stones,163,179,high,medium,22,male,Summer
+Cancer,pleuritic pain,163,162,medium,high,18,male,Summer
+Cancer,guaiac positive,163,162,high,high,30,female,Summer
+Cancer,rale,163,162,high,low,30,female,Summer
+Cancer,breath sounds decreased,163,160,low,medium,27,male,Summer
+Cancer,urge incontinence,163,169,medium,high,19,female,Summer
+Cancer,dysuria,163,173,high,low,24,female,Summer
+Cancer,diarrhea,163,162,low,high,27,female,Summer
+Cancer,vertigo,163,172,high,medium,25,male,Summer
+Cancer,qt interval prolonged,163,172,medium,high,29,female,Summer
+Cancer,ataxia,163,168,high,low,27,female,Summer
+Cancer,paresis,163,168,low,high,31,female,Summer
+Cancer,hemianopsia homonymous,163,159,high,medium,24,male,Summer
+Cancer,tumor cell invasion,163,170,medium,high,35,male,Summer
+Cancer,hemodynamically stable,163,159,high,high,28,male,Summer
+Cancer,mass of body structure,163,159,high,low,32,male,Summer
+Cancer,rhonchus,163,150,low,medium,22,male,Winter
+Cancer,orthostasis,163,164,medium,high,26,male,Summer
+Cancer,decreased body weight,163,163,high,low,29,male,Summer
+brain disease,drool,101,175,low,high,21,male,Summer
+brain disease,agitation,101,169,high,medium,22,male,Winter
+brain disease,nightmare,101,169,medium,high,26,female,Winter
+brain disease,rhonchus,101,169,high,low,30,female,Winter
+brain disease,consciousness clear,101,162,low,high,24,female,Summer
+brain disease,pin-point pupils,101,162,high,medium,32,male,Summer
+brain disease,bedridden,101,182,medium,high,19,male,Summer
+brain disease,bedridden,101,161,high,high,19,male,Summer
+brain disease,frail,101,161,high,low,19,female,Summer
+brain disease,tremor resting,101,161,low,medium,19,female,Summer
+brain disease,hyperkalemia,101,161,medium,high,19,male,Summer
+brain disease,facial paresis,101,161,high,low,19,female,Summer
+brain disease,groggy,101,161,low,high,19,male,Summer
+brain disease,muscle twitch,101,161,high,medium,24,female,Summer
+brain disease,wheelchair bound,101,161,medium,high,24,male,Summer
+brain disease,tremor,101,161,high,low,24,male,Summer
+brain disease,cough,101,161,low,high,24,female,Summer
+brain disease,fever,101,174,high,medium,24,female,Summer
+stones in bladder,paraparesis,165,182,medium,high,23,male,Summer
+stones in bladder,seizure,165,176,high,high,20,female,Summer
+stones in bladder,asthenia,165,170,high,low,17,female,Summer
+stones in bladder,urge incontinence,165,190,low,medium,22,male,Summer
+stones in bladder,unconscious state,165,190,medium,high,22,female,Summer
+stones in bladder,aura,165,190,high,low,22,male,Summer
+stones in bladder,moody,165,190,low,high,22,female,Summer
+stones in bladder,fear of falling,165,175,high,medium,26,female,Summer
+stones in bladder,tremor,165,175,medium,high,26,female,Summer
+stones in bladder,spasm,165,169,high,low,19,male,Winter
+stones in bladder,unhappy,165,166,low,high,17,male,Winter
+stones in bladder,syncope,165,166,high,medium,17,female,Winter
+stones in bladder,fall,165,166,medium,high,17,female,Winter
+stones in bladder,stiffness,165,168,high,high,25,male,Summer
+stones in bladder,unresponsiveness,165,197,high,low,30,male,Summer
+blood related disease,cyanosis,68,197,low,medium,30,male,Summer
+blood related disease,tachypnea,68,162,medium,high,25,female,Winter
+blood related disease,para na,68,162,high,low,25,female,Winter
+blood related disease,bradycardia,68,162,low,high,25,male,Winter
+blood related disease,breech presentation,68,162,high,medium,27,female,Summer
+blood related disease,cushingoid facies,68,162,medium,high,27,female,Summer
+blood related disease,cushingoid habitus,68,210,high,low,27,male,Summer
+blood related disease,cough,68,170,low,high,28,male,Summer
+blood related disease,myalgia,68,170,high,medium,28,female,Summer
+respiratory disease,orthopnea,165,170,medium,high,28,female,Summer
+respiratory disease,shortness of breath,165,170,high,high,28,male,Summer
+respiratory disease,dyspnea on exertion,165,170,high,low,32,female,Summer
+respiratory disease,jugular venous distention,165,170,low,medium,32,male,Summer
+respiratory disease,rale,165,175,medium,high,24,male,Summer
+respiratory disease,pain chest,165,186,high,low,25,male,Summer
+respiratory disease,palpitation,165,186,low,high,33,male,Summer
+respiratory disease,sweat,165,186,high,medium,41,male,Summer
+respiratory disease,sweating increased,165,162,medium,high,24,female,Summer
+respiratory disease,weight gain,165,188,high,low,27,female,Summer
+respiratory disease,cough,165,205,low,high,29,male,Summer
+respiratory disease,dyspnea,165,162,high,medium,26,male,Summer
+bipolar disorder,feeling suicidal,241,168,medium,high,20,male,Summer
+bipolar disorder,energy increased,241,181,high,high,30,male,Summer
+bipolar disorder,suicidal,241,162,high,low,27,female,Summer
+bipolar disorder,irritable mood,241,182,low,medium,30,female,Summer
+bipolar disorder,agitation,241,162,medium,high,24,female,Summer
+bipolar disorder,has religious belief,241,162,high,low,28,male,Summer
+bipolar disorder,disturbed family,241,187,low,high,22,male,Summer
+bipolar disorder,hallucinations auditory,241,187,high,medium,30,female,Summer
+bipolar disorder,verbal auditory hallucinations,241,162,medium,high,22,female,Summer
+bipolar disorder,weepiness,241,162,high,low,38,male,Summer
+bipolar disorder,behavior hyperactive,241,162,low,high,38,female,Summer
+bipolar disorder,catatonia,241,162,high,medium,42,female,Summer
+bipolar disorder,feeling hopeless,241,162,medium,high,42,male,Summer
+bipolar disorder,worry,241,162,high,high,24,female,Summer
+bipolar disorder,sleeplessness,241,162,high,low,28,male,Summer
+bipolar disorder,hypersomnia,241,170,low,medium,21,female,Summer
+bipolar disorder,difficulty,241,171,medium,high,20,male,Summer
+bipolar disorder,hallucinations visual,241,162,high,low,34,female,Summer
+bipolar disorder,hyperhidrosis disorder,241,190,low,high,21,female,Summer
+bipolar disorder,mydriasis,241,190,high,medium,25,female,Summer
+bipolar disorder,extrapyramidal sign,241,170,medium,high,22,female,Summer
+bipolar disorder,loose associations,241,175,high,low,23,female,Summer
+bipolar disorder,intoxication,241,178,low,high,22,male,Summer
+bipolar disorder,motor retardation,241,162,high,medium,34,female,Summer
+bipolar disorder,homelessness,241,180,medium,high,31,male,Summer
+bipolar disorder,blackout,241,183,high,high,28,female,Summer
+bipolar disorder,tremor,241,188,high,low,21,female,Summer
+bipolar disorder,exhaustion,241,188,low,medium,21,female,Summer
+hepatitis,ascites,133,188,medium,high,25,female,Summer
+hepatitis,spontaneous rupture of membranes,133,188,high,low,25,male,Summer
+hepatitis,tachypnea,133,162,low,high,21,male,Summer
+hepatitis,pain abdominal,133,162,high,medium,22,male,Summer
+hepatitis,pruritus,133,178,medium,high,26,male,Summer
+hepatitis,anorexia,133,162,high,low,22,male,Winter
+hepatitis,transaminitis,133,162,low,high,22,female,Winter
+hepatitis,projectile vomiting,133,162,high,medium,23,male,Summer
+hepatitis,chill,133,182,medium,high,33,female,Summer
+hepatitis,distress respiratory,133,162,high,high,34,male,Summer
+hepatitis,fever,133,193,high,low,22,male,Summer
+hepatitis,vomiting,133,174,low,medium,24,male,Summer
+heart disease,pericardial friction rub,71,186,medium,high,25,female,Summer
+heart disease,dyspnea,71,162,high,low,19,female,Summer
+heart disease,shortness of breath,71,162,low,high,19,male,Summer
+heart disease,hemodynamically stable,71,162,high,medium,19,male,Summer
+heart disease,cardiomegaly,71,162,medium,high,19,female,Summer
+heart disease,hypotension,71,162,high,low,19,male,Summer
+heart disease,sputum purulent,71,162,low,high,19,male,Summer
+heart disease,facial paresis,71,162,high,medium,19,female,Summer
+heart disease,pain,71,162,medium,high,19,female,Summer
+heart disease,oliguria,71,192,high,high,21,male,Summer
+heart disease,blackout,71,192,high,low,21,male,Summer
+heart disease,intoxication,71,192,low,medium,25,male,Summer
+brain disease,flatulence,57,162,medium,high,34,female,Summer
+brain disease,pain,57,175,high,low,17,male,Summer
+brain disease,large-for-dates fetus,57,175,low,high,17,male,Summer
+brain disease,para na,57,175,high,medium,21,female,Summer
+brain disease,vomiting,57,175,medium,high,21,female,Summer
+brain disease,lung nodule,57,175,high,low,21,male,Summer
+brain disease,breech presentation,57,170,low,high,19,male,Summer
+brain disease,shortness of breath,57,178,high,medium,33,male,Summer
+brain disease,decreased body weight,57,167,medium,high,19,female,Summer
+brain disease,immobile,57,167,high,high,19,female,Summer
+brain disease,unsteady gait,57,167,high,low,23,male,Summer
+brain disease,hallucinations visual,57,167,low,medium,23,female,Summer
+brain disease,feeling suicidal,57,167,medium,high,27,female,Summer
+stones in bladder,vomiting,61,167,high,low,31,male,Summer
+stones in bladder,nausea,61,180,low,high,21,male,Summer
+stones in bladder,pain abdominal,61,191,high,medium,25,male,Summer
+stones in bladder,pain,61,191,medium,high,29,male,Summer
+stones in bladder,cushingoid facies,61,191,high,low,33,female,Summer
+stones in bladder,cushingoid habitus,61,162,low,high,22,female,Summer
+stones in bladder,ascites,61,178,high,medium,29,male,Summer
+stones in bladder,thicken,61,179,medium,high,22,female,Summer
+stones in bladder,sore to touch,61,179,high,high,22,male,Summer
+stones in bladder,diarrhea,61,173,high,low,23,female,Summer
+stones in bladder,apyrexial,61,173,low,medium,23,male,Summer
+stones in bladder,palpitation,61,183,medium,high,20,male,Summer
+endocarditis,pleuritic pain,71,183,high,low,20,female,Summer
+endocarditis,thicken,71,183,low,high,20,female,Summer
+endocarditis,myalgia,71,183,high,medium,20,male,Summer
+endocarditis,apyrexial,71,183,medium,high,24,female,Summer
+endocarditis,night sweat,71,183,high,low,24,female,Summer
+endocarditis,flare,71,183,low,high,24,male,Summer
+endocarditis,shortness of breath,71,162,high,medium,21,female,Summer
+endocarditis,orthopnea,71,162,medium,high,21,female,Summer
+endocarditis,abscess bacterial,71,162,high,high,27,female,Summer
+endocarditis,hypotension,71,162,high,low,21,female,Summer
+endocarditis,cough,71,162,low,medium,25,male,Winter
+endocarditis,metastatic lesion,71,183,medium,high,19,male,Winter
+endocarditis,breath sounds decreased,71,183,high,low,23,male,Winter
+endocarditis,decreased body weight,71,162,low,high,26,male,Summer
+endocarditis,pulsus paradoxus,71,190,high,medium,24,female,Summer
+endocarditis,hypokinesia,71,190,medium,high,28,female,Summer
+acquired immuno-deficiency syndrome,fever,350,187,high,low,24,female,Winter
+acquired immuno-deficiency syndrome,night sweat,350,172,low,high,22,male,Summer
+acquired immuno-deficiency syndrome,spontaneous rupture of membranes,350,180,high,medium,28,male,Summer
+acquired immuno-deficiency syndrome,cough,350,180,medium,high,28,female,Summer
+acquired immuno-deficiency syndrome,decreased body weight,350,180,high,low,33,female,Summer
+acquired immuno-deficiency syndrome,chill,350,180,low,medium,33,male,Summer
+acquired immuno-deficiency syndrome,diarrhea,350,162,medium,high,31,female,Winter
+acquired immuno-deficiency syndrome,pleuritic pain,350,185,high,low,24,male,Winter
+acquired immuno-deficiency syndrome,patient non compliance,350,193,low,high,21,female,Summer
+acquired immuno-deficiency syndrome,tachypnea,350,176,high,medium,17,male,Winter
+acquired immuno-deficiency syndrome,productive cough,350,176,medium,high,17,male,Winter
+acquired immuno-deficiency syndrome,muscle hypotonia,350,176,high,low,21,male,Winter
+acquired immuno-deficiency syndrome,hypotonic,350,176,low,high,21,female,Winter
+acquired immuno-deficiency syndrome,feeling suicidal,350,176,high,medium,25,female,Winter
+lung disease,dyspnea,68,176,medium,high,25,male,Winter
+lung disease,cardiovascular finding,68,182,high,high,28,male,Summer
+lung disease,cardiovascular event,68,180,high,low,17,female,Winter
+lung disease,haemoptysis,68,180,low,medium,21,male,Winter
+lung disease,cough,68,180,medium,high,25,male,Winter
+lung disease,hypercapnia,68,181,high,low,22,male,Winter
+lung disease,soft tissue swelling,68,181,low,high,22,male,Winter
+lung disease,prostatism,68,181,high,medium,22,male,Winter
+lung disease,agitation,68,181,medium,high,22,male,Winter
+brain disease,dysarthria,885,181,high,low,26,female,Winter
+brain disease,asthenia,885,181,low,high,26,male,Winter
+brain disease,speech slurred,885,181,high,medium,26,male,Winter
+brain disease,facial paresis,885,181,medium,high,26,male,Winter
+brain disease,hemiplegia,885,181,high,high,26,male,Winter
+brain disease,unresponsiveness,885,162,high,low,22,male,Summer
+brain disease,seizure,885,167,low,medium,16,male,Summer
+brain disease,numbness,885,175,medium,high,31,male,Summer
+anxiety,seizure,408,181,high,low,23,female,Winter
+anxiety,enuresis,408,181,low,high,27,female,Winter
+anxiety,lethargy,408,180,high,medium,24,female,Summer
+anxiety,speech slurred,408,176,medium,high,24,male,Summer
+anxiety,fall,408,176,high,low,24,male,Summer
+anxiety,consciousness clear,408,164,low,high,30,male,Summer
+anxiety,mental status changes,408,198,high,medium,25,male,Summer
+anxiety,asterixis,408,180,medium,high,34,male,Winter
+anxiety,unconscious state,408,173,high,high,23,male,Summer
+anxiety,agitation,408,172,high,low,21,female,Summer
+anxiety,muscle twitch,408,172,low,medium,21,female,Summer
+anxiety,asthenia,408,171,medium,high,24,female,Summer
+anxiety,sleepy,408,167,high,low,23,female,Winter
+anxiety,dizziness,408,167,low,high,23,female,Winter
+anxiety,headache,408,167,high,medium,23,male,Winter
+anxiety,dysarthria,408,167,medium,high,27,male,Winter
+anxiety,lightheadedness,408,180,high,low,29,male,Winter
+anxiety,tremor,408,180,low,high,29,male,Winter
+anxiety,hyponatremia,408,182,high,medium,27,female,Winter
+anxiety,unresponsiveness,408,182,medium,high,27,female,Winter
+candidiasis,diarrhea,99,163,high,high,19,male,Summer
+candidiasis,throat sore,99,180,high,low,32,male,Summer
+candidiasis,decreased body weight,99,183,low,medium,22,male,Summer
+candidiasis,chill,99,183,medium,high,25,female,Summer
+candidiasis,headache,99,186,high,low,31,male,Summer
+candidiasis,abdominal tenderness,99,176,low,high,20,female,Summer
+candidiasis,patient non compliance,99,176,high,medium,20,male,Summer
+candidiasis,photophobia,99,176,medium,high,24,female,Summer
+candidiasis,night sweat,99,176,high,low,28,male,Summer
+candidiasis,painful swallowing,99,183,low,high,21,female,Summer
+candidiasis,poor dentition,99,183,high,medium,25,female,Summer
+candidiasis,transaminitis,99,174,medium,high,26,female,Summer
+candidiasis,non-productive cough,99,187,high,high,19,female,Summer
+candidiasis,adverse reaction,99,162,high,low,16,male,Winter
+candidiasis,adverse effect,99,172,low,medium,22,female,Summer
+candidiasis,abdominal bloating,99,184,medium,high,26,female,Winter
+anxiety,worry,390,184,high,low,26,female,Winter
+anxiety,feeling suicidal,390,183,low,high,21,female,Winter
+anxiety,suicidal,390,183,high,medium,21,female,Winter
+anxiety,sleeplessness,390,183,medium,high,27,female,Winter
+anxiety,feeling hopeless,390,183,high,low,27,male,Winter
+anxiety,irritable mood,390,183,low,high,31,male,Winter
+anxiety,tremor,390,183,high,medium,31,male,Winter
+anxiety,blackout,390,183,medium,high,22,male,Summer
+anxiety,weepiness,390,160,high,high,20,male,Summer
+anxiety,has religious belief,390,185,high,low,26,male,Summer
+anxiety,nervousness,390,159,low,medium,20,male,Summer
+anxiety,hallucinations visual,390,159,medium,high,20,male,Summer
+anxiety,formication,390,159,high,low,20,male,Summer
+anxiety,difficulty,390,159,low,high,20,male,Summer
+anxiety,pain chest,390,159,high,medium,20,female,Summer
+anxiety,patient non compliance,390,159,medium,high,20,male,Summer
+anxiety,agitation,390,159,high,low,20,female,Summer
+anxiety,palpitation,390,162,low,high,22,male,Summer
+anxiety,hallucinations auditory,390,162,high,medium,22,female,Summer
+anxiety,mood depressed,390,162,medium,high,22,male,Summer
+anxiety,hot flush,390,188,high,high,40,female,Summer
+anxiety,pain,390,176,high,low,18,female,Summer
+anxiety,consciousness clear,390,200,low,medium,23,female,Summer
+anxiety,nightmare,390,177,medium,high,24,female,Summer
+liver disease,ascites,218,177,high,low,15,male,Summer
+liver disease,fall,218,177,low,high,15,female,Summer
+liver disease,splenomegaly,218,177,high,medium,19,male,Summer
+liver disease,pruritus,218,177,medium,high,19,male,Summer
+liver disease,pain abdominal,218,177,high,low,19,female,Summer
+liver disease,tumor cell invasion,218,174,low,high,24,female,Summer
+liver disease,distended abdomen,218,164,high,medium,34,male,Summer
+liver disease,lesion,218,164,medium,high,38,male,Summer
+liver disease,hemodynamically stable,218,162,high,high,22,male,Summer
+liver disease,guaiac positive,218,198,high,low,23,female,Summer
+liver disease,sore to touch,218,162,low,medium,23,female,Summer
+liver disease,bleeding of vagina,218,162,medium,high,23,female,Summer
+blood related disease,hypoproteinemia,61,180,high,low,21,female,Summer
+blood related disease,fatigue,61,164,low,high,26,male,Summer
+blood related disease,haemorrhage,61,188,high,medium,20,male,Summer
+blood related disease,fatigability,61,188,medium,high,28,female,Summer
+blood related disease,cushingoid facies,61,162,high,low,26,male,Summer
+blood related disease,cushingoid habitus,61,162,low,high,26,female,Summer
+blood related disease,stool color yellow,61,162,high,medium,26,male,Summer
+blood related disease,colic abdominal,61,162,medium,high,26,male,Summer
+oral candidiasis,diarrhea,99,162,high,high,26,female,Summer
+oral candidiasis,throat sore,99,162,high,low,26,male,Summer
+oral candidiasis,decreased body weight,99,162,low,medium,26,male,Summer
+oral candidiasis,chill,99,168,medium,high,22,female,Summer
+oral candidiasis,headache,99,180,high,low,23,male,Summer
+oral candidiasis,abdominal tenderness,99,180,low,high,27,female,Summer
+oral candidiasis,patient non compliance,99,180,high,medium,31,female,Summer
+oral candidiasis,photophobia,99,180,medium,high,35,male,Summer
+oral candidiasis,night sweat,99,168,high,low,21,female,Summer
+oral candidiasis,painful swallowing,99,180,low,high,24,male,Summer
+oral candidiasis,poor dentition,99,178,high,medium,31,female,Winter
+oral candidiasis,transaminitis,99,178,medium,high,26,male,Summer
+oral candidiasis,non-productive cough,99,178,high,high,26,male,Summer
+oral candidiasis,adverse reaction,99,179,high,low,25,male,Winter
+oral candidiasis,adverse effect,99,160,low,medium,25,female,Summer
+oral candidiasis,abdominal bloating,99,173,medium,high,27,male,Summer
+diverticulitis,pain abdominal,145,180,high,low,27,female,Summer
+diverticulitis,abscess bacterial,145,162,low,high,19,female,Summer
+diverticulitis,dullness,145,162,high,medium,19,female,Summer
+diverticulitis,red blotches,145,168,medium,high,28,male,Summer
+diverticulitis,diarrhea,145,168,high,low,32,male,Summer
+diverticulitis,sore to touch,145,162,low,high,22,male,Summer
+diverticulitis,dysuria,145,162,high,medium,26,male,Summer
+diverticulitis,pain,145,180,medium,high,33,male,Summer
+diverticulitis,vomiting,145,172,high,high,28,female,Summer
+diverticulitis,sinus rhythm,145,162,high,low,34,female,Summer
+diverticulitis,colic abdominal,145,178,low,medium,16,male,Summer
+diverticulitis,apyrexial,145,178,medium,high,19,male,Summer
+diverticulitis,abdominal tenderness,145,165,high,low,23,male,Summer
+diverticulitis,fever,145,172,low,high,18,female,Summer
+diverticulitis,unsteady gait,145,172,high,medium,22,male,Summer
+diverticulitis,thicken,145,157,medium,high,19,male,Summer
+diverticulitis,urgency of micturition,145,182,high,low,22,male,Summer
+diverticulitis,anorexia,145,170,low,high,24,female,Summer
+diverticulitis,monoclonal,145,150,high,medium,17,female,Summer
+diverticulitis,constipation,145,150,medium,high,17,female,Summer
+spasm bronchial,shortness of breath,76,190,high,high,20,female,Summer
+spasm bronchial,scar tissue,76,182,high,low,21,male,Summer
+spasm bronchial,apyrexial,76,182,low,medium,25,male,Summer
+spasm bronchial,no known drug allergies,76,162,medium,high,23,male,Summer
+spasm bronchial,pain,76,178,high,low,20,male,Summer
+spasm bronchial,productive cough,76,170,low,high,18,male,Summer
+spasm bronchial,throat sore,76,148,high,medium,22,male,Summer
+spasm bronchial,dyspnea,76,148,medium,high,22,male,Summer
+spasm bronchial,chest tightness,76,148,high,low,22,female,Summer
+spasm bronchial,hypoxemia,76,148,low,high,22,female,Summer
+spasm bronchial,tachypnea,76,148,high,medium,22,male,Summer
+spasm bronchial,sensory discomfort,76,148,medium,high,22,male,Summer
+spasm bronchial,fever,76,148,high,high,26,male,Summer
+spasm bronchial,vomiting,76,148,high,low,26,male,Summer
+spasm bronchial,rhonchus,76,148,low,medium,26,male,Summer
+spasm bronchial,hemiplegia,76,148,medium,high,26,female,Summer
+spasm bronchial,fremitus,76,148,high,low,26,male,Summer
+ulcer,pain abdominal,143,148,low,high,26,female,Summer
+ulcer,paraparesis,143,170,high,medium,23,female,Summer
+ulcer,nausea,143,183,medium,high,28,female,Summer
+ulcer,vomiting,143,180,high,low,22,female,Summer
+ulcer,polymyalgia,143,177,low,high,23,male,Summer
+ulcer,out of breath,143,163,high,medium,25,female,Summer
+ulcer,pain chest,143,163,medium,high,25,female,Summer
+ulcer,hemiplegia,143,163,high,high,27,female,Summer
+ulcer,gurgle,143,161,high,low,28,male,Summer
+ulcer,hunger,143,189,low,medium,21,male,Summer
+ulcer,apyrexial,143,189,medium,high,21,male,Summer
+ulcer,nervousness,143,189,high,low,25,male,Summer
+depression mental,feeling suicidal,1337,189,low,high,25,female,Summer
+depression mental,suicidal,1337,170,high,medium,20,female,Summer
+depression mental,hallucinations auditory,1337,168,medium,high,25,female,Summer
+depression mental,feeling hopeless,1337,168,high,low,29,male,Summer
+depression mental,weepiness,1337,181,low,high,14,male,Summer
+depression mental,sleeplessness,1337,185,high,medium,19,female,Summer
+depression mental,motor retardation,1337,175,medium,high,27,male,Summer
+depression mental,irritable mood,1337,175,high,high,31,female,Summer
+depression mental,blackout,1337,170,high,low,34,female,Summer
+depression mental,mood depressed,1337,162,low,medium,21,male,Summer
+depression mental,hallucinations visual,1337,162,medium,high,21,male,Summer
+depression mental,worry,1337,162,high,low,25,male,Summer
+depression mental,agitation,1337,162,low,high,25,male,Summer
+depression mental,tremor,1337,175,high,medium,21,male,Summer
+depression mental,intoxication,1337,175,medium,high,25,female,Summer
+depression mental,verbal auditory hallucinations,1337,150,high,low,16,female,Summer
+depression mental,energy increased,1337,150,low,high,16,male,Summer
+depression mental,difficulty,1337,150,high,medium,16,female,Summer
+depression mental,nightmare,1337,150,medium,high,16,female,Summer
+depression mental,unable to concentrate,1337,194,high,high,22,female,Summer
+depression mental,homelessness,1337,194,high,low,26,female,Summer
+lung disease,behavior showing increased motor activity,80,194,low,medium,24,male,Summer
+lung disease,scar tissue,80,162,medium,high,26,female,Summer
+lung disease,dyspnea on exertion,80,162,high,low,26,male,Summer
+lung disease,coordination abnormal,80,162,low,high,33,female,Summer
+lung disease,myalgia,80,170,high,medium,24,female,Winter
+lung disease,hypercapnia,80,170,medium,high,28,male,Winter
+lung disease,clammy skin,80,176,high,low,20,male,Winter
+lung disease,has religious belief,80,176,low,high,20,female,Winter
+lung disease,room spinning,80,176,high,medium,24,male,Winter
+lung disease,moan,80,176,medium,high,24,female,Winter
+lung disease,night sweat,80,176,high,high,24,female,Winter
+lung disease,cachexia,80,176,high,low,24,female,Winter
+lung disease,symptom aggravating factors,80,176,low,medium,24,male,Winter
+lung disease,dyspnea,80,176,medium,high,26,female,Winter
+lung disease,rale,80,176,high,low,26,male,Winter
+lung disease,flushing,80,176,low,high,26,female,Winter
+lung disease,painful swallowing,80,176,high,medium,26,female,Winter
+lung disease,arthralgia,80,176,medium,high,30,male,Winter
+lung disease,choke,80,176,high,low,30,male,Winter
+lung disease,tenesmus,80,176,low,high,30,male,Winter
+lung disease,constipation,80,176,high,medium,30,male,Winter
+diabetes,unresponsiveness,122,176,medium,high,34,female,Winter
+diabetes,"hypothermia, natural",122,176,high,high,34,male,Winter
+diabetes,incoherent,122,162,high,low,27,male,Summer
+diabetes,qt interval prolonged,122,162,low,medium,31,female,Summer
+diabetes,lameness,122,162,medium,high,31,female,Summer
+diabetes,claudication,122,190,high,low,31,female,Summer
+diabetes,unconscious state,122,162,low,high,21,female,Summer
+diabetes,clammy skin,122,162,high,medium,21,female,Summer
+diabetes,polyuria,122,162,medium,high,17,female,Summer
+diabetes,distress respiratory,122,167,high,low,23,male,Summer
+diabetes,hypotension,122,162,low,high,39,female,Summer
+anxiety,intoxication,67,190,high,medium,23,female,Summer
+anxiety,tremor,67,160,medium,high,22,female,Summer
+anxiety,agitation,67,160,high,high,22,female,Summer
+anxiety,suicidal,67,162,high,low,19,male,Summer
+anxiety,homelessness,67,176,low,medium,21,male,Summer
+anxiety,prostatism,67,162,medium,high,22,female,Summer
+anxiety,lethargy,67,171,high,low,22,female,Summer
+anxiety,seizure,67,171,low,high,22,female,Summer
+anxiety,muscle twitch,67,175,high,medium,22,male,Summer
+anxiety,stuffy nose,67,175,medium,high,26,female,Summer
+anxiety,feeling hopeless,67,182,high,low,18,male,Summer
+anxiety,heavy legs,67,182,low,high,18,female,Summer
+anxiety,rale,67,179,high,medium,22,male,Summer
+vien swlling clots,pain,142,166,medium,high,21,female,Summer
+vien swlling clots,redness,142,170,high,high,23,female,Summer
+vien swlling clots,prostate tender,142,158,high,low,19,male,Summer
+vien swlling clots,fever,142,165,low,medium,22,male,Summer
+vien swlling clots,difficulty passing urine,142,178,medium,high,21,female,Summer
+vien swlling clots,sore to touch,142,178,high,low,25,female,Summer
+vien swlling clots,swelling,142,165,low,high,25,female,Summer
+vien swlling clots,apyrexial,142,175,high,medium,23,female,Summer
+vien swlling clots,erythema,142,162,medium,high,22,male,Summer
+vien swlling clots,abscess bacterial,142,169,high,low,25,female,Summer
+vien swlling clots,pain foot,142,178,low,high,28,female,Summer
+vien swlling clots,urinary hesitation,142,164,high,medium,20,female,Summer
+vien swlling clots,haemorrhage,80,186,medium,high,22,female,Summer
+vien swlling clots,bowel sounds decreased,80,186,high,high,26,female,Summer
+vien swlling clots,decreased stool caliber,80,186,high,low,34,male,Summer
+vien swlling clots,nausea and vomiting,80,208,low,medium,29,male,Summer
+vien swlling clots,hunger,80,162,medium,high,29,female,Winter
+vien swlling clots,diarrhea,80,180,high,low,28,female,Summer
+vien swlling clots,dizziness,80,161,low,high,25,female,Summer
+vien swlling clots,hyponatremia,80,163,high,medium,23,female,Summer
+vien swlling clots,clonus,80,181,medium,high,18,female,Summer
+vien swlling clots,pain,80,176,high,low,24,female,Summer
+vien swlling clots,achalasia,80,168,low,high,16,female,Winter
+vien swlling clots,burning sensation,80,168,high,medium,16,female,Winter
+vien swlling clots,guaiac positive,80,167,medium,high,25,female,Summer
+vien swlling clots,numbness of hand,80,165,high,high,29,female,Summer
+vien swlling clots,wheezing,80,174,high,low,23,male,Summer
+vien swlling clots,cough,80,174,low,medium,27,male,Summer
+liver disease,mass of body structure,82,174,medium,high,31,female,Summer
+liver disease,splenomegaly,82,188,high,low,25,male,Summer
+liver disease,lesion,82,188,low,high,33,male,Summer
+liver disease,paresis,82,162,high,medium,34,male,Summer
+liver disease,tumor cell invasion,82,162,medium,high,55,male,Summer
+liver disease,room spinning,82,182,high,low,41,female,Summer
+liver disease,haemorrhage,82,182,low,high,41,male,Summer
+liver disease,thicken,82,183,high,medium,23,female,Winter
+liver disease,indifferent mood,82,183,medium,high,23,male,Winter
+liver disease,cachexia,82,168,high,high,25,female,Winter
+liver disease,"hypothermia, natural",82,168,high,low,30,male,Winter
+liver disease,pain abdominal,82,168,low,medium,30,male,Winter
+liver disease,hepatomegaly,82,167,medium,high,24,male,Summer
+liver disease,hematocrit decreased,82,168,high,low,19,male,Summer
+liver disease,stupor,82,168,low,high,23,female,Summer
+liver disease,decreased body weight,82,190,high,medium,19,female,Summer
+liver disease,shortness of breath,82,190,medium,high,23,male,Summer
+liver disease,cough,82,191,high,low,28,male,Summer
+infection,fever,74,191,low,high,32,male,Summer
+infection,pain,74,176,high,medium,17,female,Summer
+infection,urgency of micturition,74,177,medium,high,20,female,Summer
+infection,hematuria,74,184,high,high,23,female,Summer
+infection,vomiting,74,184,high,low,27,male,Summer
+infection,chill,74,162,low,medium,23,male,Summer
+infection,diarrhea,74,171,medium,high,28,female,Summer
+infection,nausea,74,171,high,low,28,male,Summer
+infection,pain abdominal,74,171,low,high,32,female,Summer
+infection,myalgia,74,171,high,medium,32,male,Summer
+infection,fever,74,172,medium,high,27,male,Summer
+infection,chill,74,172,high,low,31,male,Summer
+stomach disease,vomiting,165,159,low,high,20,male,Summer
+stomach disease,pain abdominal,165,159,high,medium,20,male,Summer
+stomach disease,nausea,165,162,medium,high,28,female,Summer
+stomach disease,pain,165,166,high,high,25,female,Summer
+stomach disease,diarrhea,165,167,high,low,18,male,Summer
+stomach disease,stool color yellow,165,167,low,medium,18,female,Summer
+stomach disease,rigor - temperature-associated observation,165,179,medium,high,24,male,Summer
+stomach disease,apyrexial,165,162,high,low,34,female,Summer
+stomach disease,sore to touch,165,162,low,high,22,female,Summer
+stones in bladder,vomiting,61,179,high,medium,27,male,Summer
+stones in bladder,nausea,61,162,medium,high,22,female,Summer
+stones in bladder,pain abdominal,61,173,high,low,26,male,Summer
+stones in bladder,pain,61,191,low,high,24,male,Summer
+stones in bladder,cushingoid facies,61,184,high,medium,20,female,Winter
+stones in bladder,cushingoid habitus,61,184,medium,high,20,female,Winter
+stones in bladder,ascites,61,184,high,high,24,male,Winter
+stones in bladder,thicken,61,184,high,low,24,male,Winter
+stones in bladder,sore to touch,61,184,low,medium,24,female,Winter
+stones in bladder,diarrhea,61,184,medium,high,28,male,Winter
+stones in bladder,apyrexial,61,184,high,low,28,female,Winter
+stones in bladder,palpitation,61,184,low,high,28,male,Winter
+heart disease,shortness of breath,283,180,high,medium,26,male,Summer
+heart disease,orthopnea,283,162,medium,high,27,male,Summer
+heart disease,hypokinesia,283,162,high,low,27,male,Summer
+heart disease,jugular venous distention,283,190,low,high,22,female,Winter
+heart disease,palpitation,283,190,high,medium,26,female,Winter
+heart disease,pain chest,283,190,medium,high,26,female,Winter
+heart disease,syncope,283,190,high,high,28,female,Winter
+heart disease,yellow sputum,283,190,high,low,28,female,Winter
+heart disease,rale,283,200,low,medium,24,male,Winter
+heart disease,dyspnea,283,200,medium,high,28,female,Winter
+heart disease,dyspnea on exertion,283,200,high,low,32,female,Winter
+heart disease,left atrial hypertrophy,283,180,low,high,24,male,Summer
+heart disease,fatigue,283,162,high,medium,19,female,Summer
+heart disease,weight gain,283,162,medium,high,23,female,Summer
+heart disease,patient non compliance,283,169,high,low,18,female,Summer
+lung disease,yellow sputum,113,169,low,high,18,male,Summer
+lung disease,cachexia,113,175,high,medium,22,female,Summer
+lung disease,chill,113,162,medium,high,28,male,Summer
+lung disease,decreased body weight,113,180,high,high,26,female,Summer
+lung disease,productive cough,113,180,high,low,30,male,Summer
+lung disease,myalgia,113,173,low,medium,26,male,Summer
+lung disease,diarrhea,113,173,medium,high,26,female,Summer
+lung disease,neck stiffness,113,173,high,low,30,male,Summer
+lung disease,hacking cough,113,173,low,high,30,male,Summer
+lung disease,dyspareunia,113,162,high,medium,29,male,Summer
+lung disease,hypokalemia,113,160,medium,high,29,male,Summer
+lung disease,dyspnea on exertion,113,168,high,low,20,female,Summer
+lung disease,poor dentition,113,185,low,high,22,female,Summer
+lung disease,transaminitis,113,180,high,medium,20,male,Summer
+lung disease,non-productive cough,113,180,medium,high,20,female,Summer
+lung disease,headache,113,164,high,high,27,female,Summer
+lung disease,floppy,113,164,high,low,31,female,Summer
+lung disease,spontaneous rupture of membranes,113,162,low,medium,20,female,Summer
+colon disease,lesion,94,162,medium,high,20,male,Summer
+colon disease,prostatism,94,162,high,low,20,male,Summer
+colon disease,constipation,94,172,low,high,24,female,Summer
+colon disease,general discomfort,94,162,high,medium,22,female,Summer
+colon disease,diarrhea,94,162,medium,high,22,female,Summer
+colon disease,pain abdominal,94,188,high,low,23,male,Summer
+colon disease,urinary hesitation,94,188,low,high,20,male,Summer
+colon disease,dizzy spells,94,190,high,medium,16,female,Summer
+colon disease,shooting pain,94,182,medium,high,25,male,Summer
+colon disease,bradycardia,94,162,high,high,23,male,Summer
+colon disease,vomiting,94,162,high,low,27,male,Summer
+colon disease,systolic ejection murmur,94,162,low,medium,26,male,Summer
+colon disease,nausea,94,162,medium,high,26,male,Summer
+colon disease,hyperemesis,94,184,high,low,20,male,Summer
+colon disease,polydypsia,94,188,low,high,29,female,Summer
+edema pulmonary,urgency of micturition,161,177,high,medium,22,male,Summer
+edema pulmonary,shortness of breath,161,177,medium,high,26,female,Summer
+edema pulmonary,rale,161,178,high,low,21,male,Summer
+edema pulmonary,tachypnea,161,162,low,high,16,male,Summer
+edema pulmonary,orthopnea,161,162,high,medium,16,female,Summer
+edema pulmonary,Heberden's node,161,162,medium,high,30,male,Summer
+edema pulmonary,jugular venous distention,161,162,high,high,30,male,Summer
+edema pulmonary,dyspnea,161,162,high,low,34,female,Summer
+edema pulmonary,sweat,161,162,low,medium,34,female,Summer
+edema pulmonary,sweating increased,161,162,medium,high,32,male,Winter
+edema pulmonary,patient non compliance,161,168,high,low,20,female,Winter
+edema pulmonary,chest discomfort,161,168,low,high,20,male,Winter
+edema pulmonary,hyperkalemia,161,168,high,medium,20,male,Winter
+edema pulmonary,sinus rhythm,161,168,medium,high,24,female,Winter
+edema pulmonary,pain chest,161,188,high,low,21,male,Summer
+edema pulmonary,hypotension,161,188,low,high,25,female,Summer
+edema pulmonary,wheezing,161,188,high,medium,29,female,Summer
+ breast cancer,mass in breast,152,188,medium,high,33,male,Summer
+ breast cancer,mass of body structure,152,188,high,high,37,female,Summer
+ breast cancer,paresthesia,152,192,high,low,18,male,Summer
+ breast cancer,retropulsion,152,192,low,medium,22,male,Summer
+ breast cancer,erythema,152,173,medium,high,24,female,Summer
+ breast cancer,difficulty,152,162,high,low,29,male,Summer
+ breast cancer,lesion,152,162,low,high,25,male,Summer
+ breast cancer,estrogen use,152,208,high,medium,25,male,Summer
+ breast cancer,burning sensation,152,177,medium,high,23,female,Summer
+ breast cancer,dyspnea,152,162,high,low,23,male,Summer
+ breast cancer,swelling,152,162,low,high,23,male,Summer
+ breast cancer,formication,152,156,high,medium,19,female,Winter
+brain disease,dysarthria,171,156,medium,high,23,male,Winter
+brain disease,paresis,171,179,high,high,22,female,Summer
+brain disease,asthenia,171,162,high,low,29,male,Summer
+brain disease,aphagia,171,165,low,medium,25,female,Summer
+brain disease,seizure,171,172,medium,high,21,female,Summer
+brain disease,speech slurred,171,168,high,low,26,female,Summer
+brain disease,focal seizures,171,160,low,high,23,male,Summer
+brain disease,hemiplegia,171,156,high,medium,28,female,Winter
+brain disease,abnormal sensation,171,187,medium,high,21,female,Summer
+brain disease,unresponsiveness,171,187,high,low,21,female,Summer
+brain disease,stupor,171,186,low,high,23,female,Summer
+brain disease,drowsiness,171,186,high,medium,27,male,Summer
+brain disease,sleepy,171,189,medium,high,25,male,Summer
+brain disease,fremitus,171,162,high,high,34,male,Summer
+brain disease,Stahli's line,171,162,high,low,34,male,Summer
+brain disease,stinging sensation,171,162,low,medium,20,male,Summer
+brain disease,paralyse,171,202,medium,high,20,female,Summer
+brain disease,clonus,171,190,high,low,22,male,Summer
+brain disease,facial paresis,171,162,low,high,21,female,Summer
+heart disease,shortness of breath,186,180,high,medium,23,female,Summer
+heart disease,dyspnea on exertion,186,178,medium,high,27,female,Summer
+heart disease,asymptomatic,186,162,high,low,15,female,Summer
+heart disease,hypokinesia,186,162,low,high,15,male,Summer
+heart disease,dyspnea,186,162,high,medium,15,female,Summer
+heart disease,syncope,186,187,medium,high,25,female,Summer
+heart disease,thicken,186,187,high,high,25,female,Summer
+heart disease,left atrial hypertrophy,186,187,high,low,29,male,Summer
+heart disease,palpitation,186,162,low,medium,34,male,Summer
+heart disease,fatigue,186,162,medium,high,34,male,Summer
+heart disease,vomiting,186,162,high,low,34,male,Summer
+heart disease,pain,186,162,low,high,34,female,Summer
+heart disease,cardiomegaly,186,172,high,medium,27,female,Summer
+heart disease,chest discomfort,186,162,medium,high,23,female,Summer
+heart disease,shortness of breath,268,182,high,low,24,male,Summer
+heart disease,rest pain,268,182,low,high,24,male,Summer
+heart disease,angina pectoris,268,182,high,medium,24,female,Summer
+heart disease,unresponsiveness,268,182,medium,high,33,male,Winter
+heart disease,hyperkalemia,268,183,high,high,20,female,Summer
+heart disease,sinus rhythm,268,183,high,low,24,female,Summer
+heart disease,labored breathing,268,175,low,medium,24,male,Winter
+heart disease,dyspnea,268,173,medium,high,19,male,Summer
+heart disease,sore to touch,268,173,high,low,19,male,Summer
+heart disease,anorexia,268,173,low,high,23,male,Summer
+heart disease,sleepy,268,173,high,medium,23,male,Summer
+tonic - seizures,drowsiness,92,162,medium,high,30,female,Summer
+tonic - seizures,lip smacking,92,162,high,low,30,female,Summer
+tonic - seizures,myoclonus,92,162,low,high,26,male,Summer
+tonic - seizures,tremor,92,162,high,medium,49,female,Summer
+tonic - seizures,phonophobia,92,162,medium,high,24,female,Summer
+tonic - seizures,rolling of eyes,92,162,high,high,20,female,Summer
+tonic - seizures,sleepy,92,175,high,low,30,female,Summer
+tonic - seizures,hirsutism,92,175,low,medium,35,male,Summer
+tonic - seizures,moody,92,175,medium,high,35,female,Summer
+tonic - seizures,muscle twitch,92,175,high,low,38,male,Summer
+tonic - seizures,unresponsiveness,92,175,low,high,38,female,Summer
+tonic - seizures,headache,92,169,high,medium,18,female,Summer
+tonic - seizures,ambidexterity,92,154,medium,high,30,male,Summer
+tonic - seizures,absences finding,92,175,high,low,32,male,Summer
+tonic - seizures,spasm,92,175,low,high,32,female,Summer
+tonic - seizures,decreased body weight,92,175,high,medium,31,male,Summer
+tonic - seizures,tumor cell invasion,92,187,medium,high,30,female,Summer
+heart disease,pericardial friction rub,71,179,high,high,22,female,Summer
+heart disease,dyspnea,71,173,high,low,21,female,Summer
+heart disease,shortness of breath,71,173,low,medium,25,male,Summer
+heart disease,hemodynamically stable,71,190,medium,high,26,female,Summer
+heart disease,cardiomegaly,71,190,high,low,26,male,Summer
+heart disease,hypotension,71,184,low,high,29,female,Summer
+heart disease,sputum purulent,71,184,high,medium,33,female,Summer
+heart disease,facial paresis,71,187,medium,high,20,male,Summer
+heart disease,pain,71,187,high,low,20,male,Summer
+heart disease,oliguria,71,187,low,high,20,male,Summer
+heart disease,blackout,71,160,high,medium,18,male,Summer
+heart disease,intoxication,71,160,medium,high,18,female,Summer
+blood related disease,ecchymosis,123,162,high,high,47,male,Summer
+blood related disease,monocytosis,123,173,high,low,22,male,Winter
+blood related disease,posterior rhinorrhea,123,173,low,medium,22,female,Winter
+blood related disease,haemorrhage,123,173,medium,high,22,female,Winter
+blood related disease,tachypnea,123,173,high,low,24,female,Winter
+blood related disease,fever,123,173,low,high,24,female,Winter
+blood related disease,pruritus,123,173,high,medium,24,female,Winter
+blood related disease,hypotension,123,173,medium,high,28,female,Winter
+blood related disease,fatigue,123,173,high,low,28,male,Winter
+Cancer,mass of body structure,166,173,low,high,28,female,Winter
+Cancer,lesion,166,162,high,medium,18,female,Summer
+Cancer,decreased body weight,166,162,medium,high,18,female,Summer
+Cancer,constipation,166,176,high,high,21,female,Winter
+Cancer,fremitus,166,176,high,low,25,male,Winter
+Cancer,decreased stool caliber,166,176,low,medium,29,male,Winter
+Cancer,satiety early,166,171,medium,high,26,female,Summer
+Cancer,hematochezia,166,171,high,low,30,female,Summer
+Cancer,egophony,166,172,low,high,32,female,Summer
+Cancer,pain,166,175,high,medium,23,male,Summer
+Cancer,cicatrisation,166,175,medium,high,23,female,Summer
+Cancer,scar tissue,166,190,high,low,23,male,Summer
+Cancer,pain abdominal,166,172,low,high,14,female,Summer
+heart disease,shortness of breath,963,173,high,medium,25,male,Summer
+heart disease,orthopnea,963,173,medium,high,25,female,Summer
+heart disease,jugular venous distention,963,173,high,high,25,female,Summer
+heart disease,rale,963,173,high,low,25,male,Summer
+heart disease,dyspnea,963,173,low,medium,25,male,Summer
+heart disease,cough,963,173,medium,high,25,female,Summer
+heart disease,wheezing,963,173,high,low,25,female,Summer
+skin disease ,fever,208,173,low,high,25,female,Summer
+skin disease ,pruritus,208,173,high,medium,29,female,Summer
+skin disease ,macule,208,173,medium,high,29,male,Summer
+skin disease ,lesion,208,173,high,high,29,female,Summer
+skin disease ,redness,208,173,low,low,29,female,Summer
+skin disease ,headache,208,173,high,high,29,female,Summer
+skin disease ,apyrexial,208,173,medium,medium,29,female,Summer
+skin disease ,arthralgia,208,173,high,high,29,female,Summer
+skin disease ,swelling,208,173,high,low,29,male,Summer
+skin disease ,erythema,208,163,low,high,29,male,Summer
+skin disease ,photophobia,208,177,medium,medium,26,female,Winter
+skin disease ,chill,208,165,high,high,16,female,Summer
+skin disease ,scratch marks,208,165,low,high,16,female,Summer
+skin disease ,pain,208,180,high,low,23,female,Summer
+skin disease ,painful swallowing,208,180,medium,medium,23,female,Summer
+heart disease,drowsiness,226,180,high,high,23,female,Summer
+heart disease,sleepy,226,180,low,low,27,female,Summer
+heart disease,pain chest,226,180,high,high,27,female,Summer
+heart disease,angina pectoris,226,180,medium,medium,27,female,Summer
+heart disease,pressure chest,226,162,high,high,19,female,Summer
+heart disease,chest discomfort,226,162,high,low,38,male,Summer
+heart disease,shortness of breath,226,188,low,high,22,male,Summer
+heart disease,dyspnea,226,188,medium,medium,22,female,Summer
+heart disease,sinus rhythm,226,162,high,high,27,male,Summer
+heart disease,bradycardia,226,183,low,high,27,male,Summer
+heart disease,sweat,226,162,high,low,19,male,Winter
+heart disease,sweating increased,226,173,medium,medium,20,male,Summer
+heart disease,rale,226,173,high,high,24,female,Summer
+heart disease,asymptomatic,226,188,low,low,30,male,Summer
+heart disease,anorexia,226,162,high,high,36,female,Summer
+blood pressure,shortness of breath,128,162,medium,medium,36,male,Summer
+blood pressure,Stahli's line,128,162,high,high,36,female,Summer
+blood pressure,heavy legs,128,162,high,low,36,male,Summer
+blood pressure,breath sounds decreased,128,162,low,high,36,male,Summer
+blood pressure,neck stiffness,128,162,medium,medium,34,male,Summer
+blood pressure,dyspnea on exertion,128,169,high,high,22,male,Summer
+blood pressure,cyanosis,128,169,low,high,26,female,Summer
+blood pressure,hypotension,128,162,high,low,34,female,Summer
+blood pressure,left atrial hypertrophy,128,177,medium,medium,38,male,Summer
+infection,fever,630,177,high,high,38,male,Summer
+infection,erythema,630,162,low,low,31,male,Summer
+infection,decreased translucency,630,162,high,high,31,female,Summer
+infection,hepatosplenomegaly,630,162,medium,medium,31,female,Summer
+infection,chill,630,162,high,high,31,female,Summer
+infection,pruritus,630,162,high,low,39,male,Summer
+infection,diarrhea,630,178,low,high,24,male,Summer
+infection,abscess bacterial,630,162,medium,medium,37,female,Summer
+infection,swelling,630,162,high,high,37,male,Summer
+infection,pain,630,167,low,high,22,female,Summer
+infection,apyrexial,630,162,high,low,20,male,Summer
+infection,cough,630,178,medium,medium,29,male,Summer
+skin disease ,erythema,341,189,high,high,27,male,Summer
+skin disease ,pain,341,189,low,low,31,male,Summer
+skin disease ,swelling,341,189,high,high,31,male,Summer
+skin disease ,redness,341,189,medium,medium,35,female,Summer
+skin disease ,fever,341,162,high,high,16,female,Summer
+skin disease ,abscess bacterial,341,162,high,low,16,male,Summer
+skin disease ,patient non compliance,341,194,low,high,23,female,Summer
+skin disease ,hypesthesia,341,174,medium,medium,26,male,Summer
+skin disease ,hyperacusis,341,169,high,high,38,female,Summer
+skin disease ,pruritus,341,162,low,high,20,female,Summer
+skin disease ,pain chest,341,178,high,low,21,male,Summer
+skin disease ,scratch marks,341,178,medium,medium,25,female,Summer
+skin disease ,chill,341,178,high,high,29,male,Summer
+skin disease ,sore to touch,341,162,low,low,21,male,Summer
+lymphatic diseases,pain,160,164,high,high,29,female,Summer
+lymphatic diseases,mass of body structure,160,164,medium,medium,33,female,Summer
+lymphatic diseases,night sweat,160,171,high,high,25,male,Summer
+lymphatic diseases,splenomegaly,160,185,high,low,24,male,Summer
+lymphatic diseases,lesion,160,163,low,high,39,female,Summer
+lymphatic diseases,chill,160,163,medium,medium,43,male,Summer
+lymphatic diseases,decreased body weight,160,163,high,high,43,female,Summer
+lymphatic diseases,swelling,160,163,low,high,46,male,Summer
+lymphatic diseases,fever,160,163,high,low,46,male,Summer
+lymphatic diseases,hyperacusis,160,163,medium,medium,50,male,Summer
+lymphatic diseases,fremitus,160,163,high,high,50,male,Summer
+lymphatic diseases,non-productive cough,160,188,low,low,23,female,Summer
+lymphatic diseases,egophony,160,188,high,high,23,female,Summer
+lymphatic diseases,redness,160,188,medium,medium,23,female,Summer
+lymphatic diseases,hepatomegaly,160,188,high,high,23,female,Summer
+lymphatic diseases,fatigue,160,188,high,low,23,female,Summer
+gastritis,pain abdominal,87,188,low,high,27,male,Summer
+gastritis,breath-holding spell,87,188,medium,medium,27,female,Summer
+gastritis,nausea,87,188,high,high,27,female,Summer
+gastritis,decreased body weight,87,188,low,high,27,male,Summer
+gastritis,sore to touch,87,188,high,low,26,female,Summer
+gastritis,scleral icterus,87,170,medium,medium,20,female,Summer
+gastritis,fever,87,170,high,high,20,female,Summer
+gastritis,myalgia,87,170,low,low,20,male,Summer
+gastritis,hyponatremia,87,188,high,high,17,female,Summer
+gastritis,retch,87,164,medium,medium,24,male,Winter
+gastritis,mass of body structure,87,172,high,high,23,female,Summer
+gastritis,decreased body weight,87,172,high,low,27,male,Summer
+brain disease,achalasia,108,162,low,high,48,male,Summer
+brain disease,fall,108,162,medium,medium,34,female,Summer
+brain disease,stiffness,108,198,high,high,19,male,Summer
+brain disease,withdraw,108,162,low,high,21,male,Summer
+brain disease,agitation,108,193,high,low,19,male,Summer
+brain disease,hemiplegia,108,193,medium,medium,23,male,Summer
+brain disease,difficulty,108,193,high,high,27,female,Summer
+brain disease,unresponsiveness,108,193,low,low,31,female,Summer
+brain disease,syncope,108,181,high,high,22,male,Summer
+brain disease,facial paresis,108,179,medium,medium,20,female,Summer
+brain disease,orthostasis,108,189,high,high,25,female,Summer
+brain disease,worry,108,189,high,low,29,female,Summer
+brain disease,drowsiness,108,162,low,high,26,female,Summer
+brain disease,sleepy,108,171,medium,medium,23,male,Summer
+brain disease,hematuria,108,162,high,high,29,male,Summer
+brain disease,tremor,108,177,low,high,22,female,Summer
+brain disease,night sweat,108,177,high,low,22,female,Summer
+brain disease,mass of body structure,108,177,medium,medium,26,female,Summer
+stomach disease,pain abdominal,164,177,high,high,30,male,Summer
+stomach disease,pain,164,183,low,low,27,male,Summer
+stomach disease,hyperventilation,164,171,high,high,25,female,Summer
+stomach disease,excruciating pain,164,171,medium,medium,25,male,Summer
+stomach disease,gag,164,162,high,high,27,male,Summer
+stomach disease,nausea,164,170,high,low,23,male,Summer
+stomach disease,posturing,164,162,low,high,27,male,Summer
+stomach disease,hemiplegia,164,185,medium,medium,23,male,Summer
+stomach disease,sore to touch,164,166,high,high,25,male,Summer
+stomach disease,haemorrhage,164,160,low,high,23,female,Summer
+stomach disease,apyrexial,164,165,high,low,20,male,Summer
+stomach disease,food intolerance,164,165,medium,medium,28,female,Summer
+stomach disease,pulse absent,164,180,high,high,24,male,Summer
+stomach disease,asthenia,164,183,low,low,24,male,Summer
+stomach disease,mass of body structure,164,183,high,high,24,female,Summer
+stomach disease,thicken,164,162,medium,medium,20,male,Summer
+kidney disease,shortness of breath,96,162,high,high,20,male,Summer
+kidney disease,hyperkalemia,96,183,high,low,23,female,Summer
+kidney disease,pain chest,96,183,low,high,27,female,Summer
+kidney disease,fever,96,178,medium,medium,20,male,Summer
+kidney disease,gravida na,96,167,high,high,25,female,Summer
+kidney disease,bleeding of vagina,96,168,low,high,26,male,Summer
+colon disease,fever,114,178,high,low,21,male,Summer
+colon disease,thicken,114,162,medium,medium,34,female,Summer
+colon disease,green sputum,114,162,high,high,34,male,Summer
+colon disease,vomiting,114,179,low,low,28,female,Summer
+colon disease,nausea and vomiting,114,179,high,high,28,female,Summer
+colon disease,awakening early,114,162,medium,medium,20,male,Summer
+colon disease,pain,114,162,high,high,19,female,Summer
+colon disease,nausea,114,162,high,low,23,male,Summer
+colon disease,chill,114,162,low,high,27,male,Summer
+colon disease,tenesmus,114,162,medium,medium,39,female,Summer
+colon disease,urge incontinence,114,181,high,high,37,male,Summer
+colon disease,pain abdominal,114,181,low,high,37,male,Summer
+colon disease,hemodynamically stable,114,195,high,low,22,male,Summer
+vien swlling clots,swelling,310,164,medium,medium,28,female,Summer
+vien swlling clots,pain,310,170,high,high,23,male,Summer
+vien swlling clots,ecchymosis,310,177,low,low,21,male,Summer
+vien swlling clots,shortness of breath,310,182,high,high,24,female,Summer
+vien swlling clots,pain in lower limb,310,180,medium,medium,17,male,Summer
+vien swlling clots,cardiomegaly,310,180,high,high,21,female,Summer
+vien swlling clots,rale,310,170,high,low,27,male,Summer
+vien swlling clots,erythema,310,170,low,high,31,female,Summer
+vien swlling clots,hypotension,310,162,medium,medium,34,female,Summer
+vien swlling clots,clonus,310,191,high,high,23,female,Summer
+vien swlling clots,non-productive cough,310,178,low,high,23,male,Summer
+vien swlling clots,redness,310,183,high,low,20,male,Summer
+bipolar disorder,nightmare,84,183,medium,medium,24,male,Summer
+bipolar disorder,feeling hopeless,84,183,high,high,24,male,Summer
+bipolar disorder,transsexual,84,183,low,low,28,male,Summer
+bipolar disorder,hallucinations auditory,84,183,high,high,28,male,Summer
+bipolar disorder,irritable mood,84,183,medium,medium,32,female,Summer
+bipolar disorder,sleeplessness,84,183,high,high,32,male,Summer
+bipolar disorder,agitation,84,188,high,low,23,female,Summer
+bipolar disorder,weepiness,84,188,low,high,27,female,Summer
+bipolar disorder,mood depressed,84,161,medium,medium,20,female,Summer
+bipolar disorder,scratch marks,84,161,high,high,20,female,Summer
+bipolar disorder,nausea and vomiting,84,161,low,high,24,male,Summer
+bipolar disorder,extreme exhaustion,84,161,high,low,32,female,Summer
+bipolar disorder,side pain,84,162,medium,medium,23,female,Summer
+bipolar disorder,worry,84,162,high,high,20,female,Summer
+bipolar disorder,enuresis,84,185,low,low,19,male,Winter
+bipolar disorder,homelessness,84,185,high,high,19,male,Winter
+bipolar disorder,nervousness,84,185,medium,medium,19,male,Winter
+bipolar disorder,ascites,84,185,high,high,23,male,Winter
+bipolar disorder,pruritus,84,185,high,low,23,female,Winter
+blood pressure,pain chest,247,185,low,high,23,female,Winter
+blood pressure,angina pectoris,247,185,medium,medium,25,female,Winter
+blood pressure,palpitation,247,185,high,high,25,male,Winter
+blood pressure,presence of q wave,247,185,low,high,25,male,Winter
+blood pressure,photopsia,247,185,high,low,29,female,Winter
+blood pressure,sweat,247,185,medium,medium,29,male,Winter
+blood pressure,sweating increased,247,185,high,high,29,female,Winter
+blood pressure,chest discomfort,247,170,low,low,23,female,Winter
+blood pressure,shortness of breath,247,162,high,high,29,male,Summer
+blood pressure,giddy mood,247,162,medium,medium,25,male,Summer
+blood pressure,hypokinesia,247,162,high,high,25,male,Summer
+blood pressure,hemiplegia,247,181,high,low,22,male,Summer
+blood pressure,dizziness,247,181,low,high,27,male,Summer
+respiratory disease,cough,1029,186,medium,medium,24,female,Summer
+respiratory disease,fever,1029,162,high,high,30,female,Summer
+respiratory disease,decreased translucency,1029,166,low,high,23,male,Summer
+respiratory disease,shortness of breath,1029,140,high,low,26,female,Summer
+respiratory disease,rale,1029,140,medium,medium,30,female,Summer
+respiratory disease,productive cough,1029,169,high,high,22,female,Summer
+respiratory disease,pleuritic pain,1029,163,low,low,17,female,Summer
+respiratory disease,yellow sputum,1029,163,high,high,17,male,Summer
+respiratory disease,breath sounds decreased,1029,163,medium,medium,17,female,Summer
+respiratory disease,chill,1029,163,high,high,17,male,Summer
+respiratory disease,rhonchus,1029,163,high,low,22,female,Summer
+respiratory disease,green sputum,1029,163,low,high,22,female,Summer
+respiratory disease,non-productive cough,1029,163,medium,medium,25,male,Winter
+respiratory disease,wheezing,1029,163,high,high,25,male,Winter
+respiratory disease,haemoptysis,1029,162,low,high,34,female,Summer
+respiratory disease,distress respiratory,1029,213,high,low,33,male,Summer
+respiratory disease,tachypnea,1029,213,medium,medium,33,female,Summer
+respiratory disease,malaise,1029,185,high,high,38,female,Summer
+respiratory disease,night sweat,1029,190,low,low,19,female,Summer
+gastritis,pain,325,177,high,high,22,male,Summer
+gastritis,pain chest,325,177,medium,medium,26,female,Summer
+gastritis,burning sensation,325,162,high,high,28,male,Summer
+gastritis,hyponatremia,325,178,high,low,17,female,Winter
+gastritis,satiety early,325,175,low,high,19,female,Summer
+gastritis,throbbing sensation quality,325,162,medium,medium,38,male,Summer
+gastritis,chest tightness,325,162,high,high,38,male,Summer
+gastritis,sensory discomfort,325,162,low,high,29,male,Summer
+gastritis,presence of q wave,325,162,high,low,38,male,Summer
+gastritis,nausea,325,168,medium,medium,18,female,Summer
+gastritis,general discomfort,325,168,high,high,22,male,Summer
+gastritis,constipation,325,177,low,low,28,male,Summer
+gastritis,palpitation,325,202,high,high,24,female,Summer
+gastritis,pain abdominal,325,179,medium,medium,24,female,Summer
+gastritis,heartburn,325,179,high,high,28,female,Summer
+gastritis,sweat,325,180,high,low,21,female,Summer
+gastritis,sweating increased,325,178,low,high,23,female,Summer
+gastritis,asthenia,325,178,medium,medium,27,female,Summer
+pneumonia aspiration,mediastinal shift,119,176,high,high,23,male,Summer
+pneumonia aspiration,fever,119,180,low,high,21,female,Summer
+pneumonia aspiration,clonus,119,180,high,low,21,female,Summer
+pneumonia aspiration,mental status changes,119,180,medium,medium,26,female,Summer
+pneumonia aspiration,decreased translucency,119,186,high,high,19,female,Summer
+pneumonia aspiration,unresponsiveness,119,186,low,low,19,male,Summer
+pneumonia aspiration,extreme exhaustion,119,186,high,high,19,male,Summer
+pneumonia aspiration,stupor,119,186,medium,medium,22,female,Summer
+pneumonia aspiration,seizure,119,186,high,high,22,female,Summer
+pneumonia aspiration,transaminitis,119,186,high,low,22,female,Summer
+pneumonia aspiration,hemiplegia,119,186,low,high,26,male,Summer
+pneumonia aspiration,cough,119,165,medium,medium,23,female,Summer
+pneumonia aspiration,gurgle,119,187,high,high,25,male,Summer
+pneumonia aspiration,pain,119,187,low,high,29,female,Summer
+pneumonia aspiration,diarrhea,119,177,high,low,24,male,Summer
+pneumonia aspiration,pain abdominal,119,177,medium,medium,28,female,Summer
+heart disease,dyspnea on exertion,158,177,high,high,28,female,Summer
+heart disease,syncope,158,162,low,low,27,male,Summer
+heart disease,chest discomfort,158,166,high,high,31,male,Summer
+heart disease,systolic murmur,158,170,medium,medium,22,female,Summer
+heart disease,sciatica,158,170,high,high,27,female,Summer
+heart disease,angina pectoris,158,170,high,low,35,female,Summer
+heart disease,pain chest,158,162,low,high,33,female,Summer
+heart disease,frothy sputum,158,162,medium,medium,30,male,Summer
+heart disease,bradycardia,158,162,high,high,24,female,Summer
+heart disease,shortness of breath,158,162,low,high,19,female,Summer
+heart disease,pain,158,174,high,low,22,female,Summer
+blood pressure,pain chest,3363,162,medium,medium,21,female,Summer
+blood pressure,shortness of breath,3363,162,high,high,24,female,Summer
+blood pressure,dizziness,3363,162,low,low,28,male,Summer
+blood pressure,asthenia,3363,162,high,high,28,male,Summer
+blood pressure,fall,3363,162,medium,medium,28,female,Summer
+blood pressure,syncope,3363,162,high,high,34,female,Summer
+blood pressure,vertigo,3363,173,high,low,22,female,Winter
+blood pressure,sweat,3363,173,low,high,22,female,Winter
+blood pressure,sweating increased,3363,173,medium,medium,26,female,Winter
+blood pressure,palpitation,3363,163,high,high,31,female,Summer
+blood pressure,nausea,3363,174,low,high,25,female,Summer
+blood pressure,angina pectoris,3363,176,high,low,20,female,Summer
+blood pressure,pressure chest,3363,153,medium,medium,25,female,Summer
+other,fall,95,168,high,high,23,female,Summer
+other,distended abdomen,95,168,low,low,16,male,Summer
+other,unsteady gait,95,177,high,high,17,male,Summer
+other,paresthesia,95,176,medium,medium,21,female,Summer
+other,hyponatremia,95,176,high,high,26,male,Summer
+other,agitation,95,195,high,low,20,male,Summer
+other,unconscious state,95,195,low,high,28,male,Summer
+other,burning sensation,95,195,medium,medium,32,male,Summer
+other,lesion,95,185,high,high,21,female,Summer
+other,mass of body structure,95,185,low,high,21,male,Summer
+blood related disease,fever,311,185,high,low,21,female,Summer
+blood related disease,distress respiratory,311,162,medium,medium,24,male,Summer
+blood related disease,hypotension,311,165,high,high,19,female,Summer
+blood related disease,tachypnea,311,162,low,low,22,male,Summer
+blood related disease,chill,311,162,high,high,28,male,Summer
+blood related disease,lethargy,311,162,medium,medium,32,male,Summer
+blood related disease,bradycardia,311,180,high,high,23,male,Summer
+blood related disease,breech presentation,311,180,high,low,26,female,Summer
+blood related disease,cyanosis,311,180,low,high,31,female,Summer
+blood related disease,spontaneous rupture of membranes,311,165,medium,medium,23,male,Summer
+blood related disease,haemorrhage,311,162,high,high,21,male,Summer
+blood related disease,unresponsiveness,311,162,low,high,25,male,Summer
+blood related disease,rale,311,162,high,low,25,female,Summer
+blood related disease,apyrexial,311,162,medium,medium,25,female,Summer
+bronchitis,cough,172,190,high,high,27,female,Winter
+bronchitis,wheezing,172,190,low,low,27,male,Winter
+bronchitis,shortness of breath,172,162,high,high,18,male,Summer
+bronchitis,chest tightness,172,168,medium,medium,34,female,Summer
+bronchitis,fever,172,175,high,high,28,male,Summer
+bronchitis,throat sore,172,173,high,low,23,female,Summer
+bronchitis,productive cough,172,188,low,high,22,male,Summer
+bronchitis,hepatosplenomegaly,172,162,medium,medium,20,male,Summer
+bronchitis,night sweat,172,188,high,high,26,male,Summer
+bronchitis,haemoptysis,172,162,low,high,32,male,Summer
+bronchitis,labored breathing,172,186,high,low,20,male,Summer
+bronchitis,snuffle,172,186,medium,medium,24,female,Summer
+bronchitis,hacking cough,172,186,high,high,28,female,Summer
+bronchitis,dyspnea,172,180,low,low,26,male,Summer
+bronchitis,chill,172,180,high,high,30,female,Summer
+bronchitis,stridor,172,180,medium,medium,34,male,Summer
+bronchitis,decreased body weight,172,172,high,high,23,female,Summer
+delusion,loose associations,56,172,high,low,23,female,Summer
+delusion,giddy mood,56,162,low,high,16,male,Summer
+delusion,feeling hopeless,56,162,medium,medium,16,female,Summer
+delusion,agitation,56,162,high,high,28,male,Summer
+delusion,hallucinations auditory,56,162,low,high,36,male,Summer
+delusion,irritable mood,56,162,high,low,18,female,Summer
+delusion,sleeplessness,56,162,medium,medium,18,female,Summer
+delusion,neologism,56,162,high,high,18,male,Summer
+delusion,homicidal thoughts,56,162,low,low,18,male,Summer
+delusion,disturbed family,56,162,high,high,18,female,Summer
+delusion,worry,56,162,medium,medium,18,male,Summer
+delusion,decompensation,56,182,high,high,20,female,Summer
+delusion,verbally abusive behavior,56,182,high,low,20,male,Summer
+delusion,catatonia,56,162,low,high,21,male,Summer
+delusion,suicidal,56,162,medium,medium,37,male,Summer
+delusion,terrify,56,162,high,high,37,male,Summer
+delusion,blackout,56,162,low,high,45,female,Summer
+delusion,weepiness,56,162,high,low,45,female,Summer
+delusion,impaired cognition,56,162,medium,medium,45,female,Summer
+delusion,irritable mood,56,162,high,high,39,female,Summer
+delusion,agitation,56,153,low,low,17,female,Summer
+respiratory disease,cough,135,153,high,high,17,male,Summer
+respiratory disease,throat sore,135,153,medium,medium,17,female,Summer
+respiratory disease,wheezing,135,153,high,high,17,female,Summer
+respiratory disease,shortness of breath,135,162,high,low,15,male,Summer
+respiratory disease,labored breathing,135,162,low,high,19,female,Summer
+respiratory disease,fever,135,162,medium,medium,19,female,Summer
+respiratory disease,stuffy nose,135,162,high,high,27,female,Summer
+respiratory disease,non-productive cough,135,162,low,high,27,male,Summer
+respiratory disease,snuffle,135,162,high,low,31,female,Summer
+respiratory disease,indifferent mood,135,162,medium,medium,31,male,Summer
+respiratory disease,egophony,135,162,high,high,15,female,Summer
+respiratory disease,barking cough,135,162,low,low,23,male,Summer
+respiratory disease,polymyalgia,135,177,high,high,41,male,Summer
+respiratory disease,pleuritic pain,135,177,medium,medium,41,female,Summer
+respiratory disease,night sweat,135,179,high,high,19,male,Summer
+respiratory disease,dyspnea,135,179,high,low,19,male,Summer
+respiratory disease,productive cough,135,179,low,high,23,male,Summer
+respiratory disease,decreased translucency,135,179,medium,medium,23,male,Summer
+respiratory disease,rhonchus,135,177,high,high,22,female,Summer
+respiratory disease,rapid shallow breathing,135,177,low,high,29,female,Summer
+respiratory disease,apyrexial,135,194,high,low,23,male,Summer
+respiratory disease,noisy respiration,135,174,medium,medium,34,female,Summer
+respiratory disease,nasal discharge present,135,165,high,high,21,female,Summer
+respiratory disease,emphysematous change,135,177,low,low,25,female,Summer
+respiratory disease,frail,135,162,high,high,30,female,Summer
+respiratory disease,cystic lesion,135,162,medium,medium,34,male,Summer
+respiratory disease,symptom aggravating factors,135,173,high,high,25,male,Summer
+respiratory disease,hemodynamically stable,135,168,high,low,34,female,Summer
+brain disease,fever,504,168,low,high,34,female,Summer
+brain disease,fall,504,173,medium,medium,20,female,Summer
+brain disease,unresponsiveness,504,173,high,high,20,male,Summer
+brain disease,lethargy,504,162,low,high,34,male,Summer
+brain disease,agitation,504,168,high,low,24,female,Summer
+brain disease,ecchymosis,504,162,medium,medium,25,male,Winter
+brain disease,syncope,504,165,high,high,20,male,Winter
+brain disease,rale,504,165,low,low,20,male,Winter
+brain disease,unconscious state,504,162,high,high,34,male,Summer
+brain disease,cough,504,162,medium,medium,21,male,Winter
+brain disease,bedridden,504,182,high,high,21,male,Summer
+brain disease,bedridden,504,183,high,low,22,female,Summer
+brain disease,pain,504,183,low,high,26,male,Summer
+brain disease,facial paresis,504,180,medium,medium,23,female,Winter
+brain disease,abdominal tenderness,504,180,high,high,23,male,Winter
+brain disease,rhonchus,504,180,low,high,23,male,Winter
+brain disease,unsteady gait,504,180,high,low,27,female,Winter
+brain disease,hallucinations auditory,504,180,medium,medium,27,male,Winter
+diabetes,polyuria,93,180,high,high,27,male,Winter
+diabetes,vomiting,93,180,low,low,25,female,Winter
+diabetes,nausea,93,180,high,high,25,female,Winter
+diabetes,pain abdominal,93,202,medium,medium,26,male,Summer
+diabetes,milky,93,175,high,high,19,female,Summer
+diabetes,feeling strange,93,170,high,low,20,male,Summer
+diabetes,gurgle,93,162,low,high,16,male,Summer
+diabetes,nervousness,93,162,medium,medium,16,female,Summer
+diabetes,abdominal tenderness,93,162,high,high,16,male,Summer
+diabetes,regurgitates after swallowing,93,162,low,high,16,female,Summer
+diabetes,vision blurred,93,162,high,low,16,female,Summer
+diabetes,urinary hesitation,93,162,medium,medium,20,male,Summer
+diabetes,diarrhea,93,162,high,high,20,female,Summer
+diabetes,seizure,93,162,low,low,20,male,Summer
+diabetes,aura,93,162,high,high,20,male,Summer
+psychotic disorder,energy increased,85,162,medium,medium,20,female,Summer
+psychotic disorder,suicidal,85,204,high,high,22,male,Summer
+psychotic disorder,hypersomnia,85,182,high,low,31,male,Summer
+psychotic disorder,feeling suicidal,85,162,low,high,34,male,Summer
+psychotic disorder,blanch,85,162,medium,medium,22,female,Summer
+psychotic disorder,hallucinations auditory,85,162,high,high,22,male,Summer
+psychotic disorder,hallucinations visual,85,192,low,high,34,male,Summer
+psychotic disorder,elation,85,187,high,low,21,female,Summer
+psychotic disorder,verbal auditory hallucinations,85,180,medium,medium,23,male,Summer
+psychotic disorder,feeling hopeless,85,160,high,high,23,female,Summer
+psychotic disorder,difficulty,85,190,low,low,23,male,Summer
+psychotic disorder,decompensation,85,190,high,high,27,female,Summer
+psychotic disorder,verbally abusive behavior,85,160,medium,medium,22,female,Summer
+psychotic disorder,suicidal,85,167,high,high,28,female,Summer
+psychotic disorder,feeling suicidal,85,162,high,low,49,male,Summer
+suicide attempt,hallucinations auditory,114,162,low,high,49,male,Summer
+suicide attempt,sleeplessness,114,162,medium,medium,49,male,Summer
+suicide attempt,suicidal,114,162,high,high,49,male,Summer
+suicide attempt,motor retardation,114,162,low,high,49,male,Summer
+suicide attempt,weepiness,114,162,high,low,49,male,Summer
+suicide attempt,unable to concentrate,114,162,medium,medium,53,female,Summer
+suicide attempt,todd paralysis,114,162,high,high,53,male,Summer
+suicide attempt,worry,114,162,low,low,53,female,Summer
+suicide attempt,fatigue,114,162,high,high,34,female,Summer
+suicide attempt,tremor,114,198,medium,medium,19,female,Summer
+suicide attempt,alcoholic withdrawal symptoms,114,198,high,high,23,female,Summer
+suicide attempt,agitation,114,198,high,low,23,male,Summer
+suicide attempt,unresponsiveness,114,198,low,high,23,female,Summer
+suicide attempt,blackout,114,198,medium,medium,27,female,Summer
+suicide attempt,withdraw,114,198,high,high,27,female,Summer
+suicide attempt,difficulty,114,198,low,high,27,male,Summer
+suicide attempt,irritable mood,114,198,high,low,27,male,Summer
+suicide attempt,sensory discomfort,114,168,medium,medium,22,male,Summer
+suicide attempt,drowsiness,114,151,high,high,33,male,Summer
+suicide attempt,formication,114,151,low,low,37,female,Summer
+suicide attempt,unconscious state,114,151,high,high,37,female,Summer
+suicide attempt,fever,114,180,medium,medium,21,female,Summer
+suicide attempt,cough,114,180,high,high,25,male,Summer
+HIV,fever,350,180,high,low,29,male,Summer
+HIV,night sweat,350,176,low,high,35,female,Summer
+HIV,spontaneous rupture of membranes,350,176,medium,medium,47,male,Summer
+HIV,cough,350,185,high,high,29,female,Summer
+HIV,cachexia,350,185,low,high,33,female,Summer
+HIV,decreased body weight,350,185,high,low,37,male,Summer
+HIV,chill,350,170,medium,medium,21,male,Summer
+HIV,diarrhea,350,170,high,high,25,male,Summer
+HIV,pleuritic pain,350,170,low,low,29,male,Summer
+HIV,patient non compliance,350,170,high,high,33,male,Summer
+HIV,tachypnea,350,170,medium,medium,37,female,Summer
+HIV,productive cough,350,180,high,high,23,female,Summer
+HIV,muscle hypotonia,350,180,high,low,32,male,Summer
+HIV,hypotonic,350,180,low,high,32,female,Summer
+HIV,feeling suicidal,350,180,medium,medium,36,female,Summer
+respiratory disease,mental status changes,192,189,high,high,30,female,Summer
+respiratory disease,cachexia,192,173,low,high,21,female,Winter
+respiratory disease,blackout,192,173,high,low,25,male,Summer
+respiratory disease,orthostasis,192,170,medium,medium,19,female,Summer
+respiratory disease,orthopnea,192,162,high,high,20,male,Summer
+respiratory disease,night sweat,192,165,low,low,24,female,Summer
+respiratory disease,distress respiratory,192,165,high,high,24,female,Summer
+respiratory disease,anorexia,192,185,medium,medium,24,male,Summer
+respiratory disease,dysarthria,192,190,high,high,20,male,Summer
+HIV,fever,350,190,high,low,20,female,Summer
+HIV,night sweat,350,190,low,high,24,male,Summer
+HIV,spontaneous rupture of membranes,350,190,medium,medium,24,female,Summer
+HIV,cough,350,154,high,high,27,female,Summer
+HIV,decreased body weight,350,190,high,low,25,male,Summer
+HIV,chill,350,192,medium,medium,26,female,Summer
+HIV,diarrhea,350,175,high,high,23,male,Summer
+HIV,pleuritic pain,350,175,low,low,27,female,Summer
+HIV,patient non compliance,350,190,high,high,28,female,Summer
+HIV,tachypnea,350,170,medium,medium,24,male,Summer
+HIV,productive cough,350,180,high,high,30,male,Winter
+HIV,muscle hypotonia,350,162,high,low,34,male,Summer
+HIV,hypotonic,350,162,low,high,27,male,Summer
+HIV,feeling suicidal,350,170,medium,medium,22,female,Summer
+bacteremia,fever,142,186,high,high,24,male,Winter
+bacteremia,chill,142,186,low,high,28,male,Winter
+bacteremia,flushing,142,180,high,low,27,female,Winter
+bacteremia,unresponsiveness,142,189,medium,medium,24,female,Summer
+bacteremia,indifferent mood,142,169,high,high,29,female,Summer
+bacteremia,urinoma,142,181,low,low,24,female,Summer
+bacteremia,vomiting,142,162,high,high,22,female,Summer
+bacteremia,distended abdomen,142,162,medium,medium,22,female,Summer
+bacteremia,hypoalbuminemia,142,175,high,high,24,male,Summer
+bacteremia,pustule,142,162,high,low,20,female,Summer
+bacteremia,prostatism,142,162,low,high,20,female,Summer
+bacteremia,diarrhea,142,191,medium,medium,19,female,Summer
+bacteremia,abdominal tenderness,142,191,high,high,19,female,Summer
+bacteremia,pleuritic pain,142,191,low,high,23,male,Summer
+bacteremia,decreased translucency,142,191,high,low,23,male,Summer
+bacteremia,pallor,142,177,medium,medium,20,female,Winter
+blood related disease,transaminitis,68,162,high,high,20,female,Summer
+blood related disease,splenomegaly,68,162,low,low,20,female,Summer
+blood related disease,night sweat,68,162,high,high,20,male,Summer
+blood related disease,apyrexial,68,162,medium,medium,37,female,Winter
+blood related disease,lesion,68,182,high,high,33,male,Summer
+blood related disease,snuffle,68,182,high,low,28,female,Summer
+blood related disease,chill,68,178,low,high,22,male,Summer
+blood related disease,cough,68,166,medium,medium,21,female,Summer
+blood related disease,monoclonal,68,166,high,high,21,female,Summer
+blood related disease,hypocalcemia result,68,166,low,high,25,male,Summer
+blood related disease,oliguria,68,173,high,low,31,male,Summer
+blood related disease,rhd positive,68,173,medium,medium,31,female,Summer
+blood related disease,distress respiratory,68,162,high,high,27,female,Summer
+hepatitis,inappropriate affect,111,162,low,low,27,female,Summer
+hepatitis,tachypnea,111,186,high,high,34,female,Winter
+hepatitis,yellow sputum,111,186,medium,medium,25,male,Winter
+hepatitis,projectile vomiting,111,162,high,high,23,female,Summer
+hepatitis,poor feeding,111,162,high,low,27,female,Summer
+hepatitis,pain abdominal,111,162,low,high,35,female,Summer
+hepatitis,abdominal tenderness,111,162,medium,medium,44,female,Summer
+hepatitis,wheelchair bound,111,162,high,high,20,female,Summer
+hepatitis,moan,111,188,low,high,25,male,Summer
+hepatitis,ascites,269,175,high,low,19,male,Summer
+hepatitis,distended abdomen,269,187,medium,medium,30,female,Summer
+hepatitis,feeling suicidal,269,175,high,high,23,female,Summer
+hepatitis,cough,269,158,low,low,16,female,Summer
+hepatitis,ache,269,158,high,high,16,female,Summer
+hepatitis,macerated skin,269,158,medium,medium,16,female,Summer
+hepatitis,heavy feeling,269,158,high,high,16,female,Summer
+hepatitis,hallucinations auditory,269,158,high,low,16,female,Summer
+hepatitis,chill,269,158,low,high,20,female,Summer
+hepatitis,asterixis,269,158,medium,medium,20,female,Summer
+hepatitis,patient non compliance,269,158,high,high,20,female,Summer
+heart disease,pain chest,1284,164,low,high,30,male,Summer
+heart disease,angina pectoris,1284,175,high,low,26,male,Summer
+heart disease,shortness of breath,1284,182,medium,medium,19,female,Summer
+heart disease,hypokinesia,1284,182,high,high,23,male,Summer
+heart disease,sweat,1284,169,low,low,20,male,Summer
+heart disease,sweating increased,1284,162,high,high,28,male,Summer
+heart disease,pressure chest,1284,162,medium,medium,26,male,Winter
+heart disease,dyspnea on exertion,1284,162,high,high,26,female,Winter
+heart disease,orthopnea,1284,162,high,low,26,male,Winter
+heart disease,chest tightness,1284,186,low,high,21,female,Summer
+lung disease,lesion,86,187,medium,medium,26,male,Summer
+lung disease,cough,86,180,high,high,18,female,Summer
+lung disease,lung nodule,86,168,low,high,18,male,Winter
+lung disease,shortness of breath,86,168,high,low,18,male,Winter
+lung disease,haemoptysis,86,194,medium,medium,28,male,Summer
+lung disease,debilitation,86,162,high,high,34,male,Summer
+lung disease,gurgle,86,163,low,low,19,female,Summer
+lung disease,ache,86,183,high,high,22,female,Winter
+lung disease,rale,86,183,medium,medium,26,male,Winter
+lung disease,night sweat,86,183,high,high,30,male,Winter
+lung disease,decreased translucency,86,184,high,low,27,male,Summer
+lung disease,asthenia,86,162,low,high,17,female,Summer
+lung disease,metastatic lesion,86,180,medium,medium,20,female,Summer
+lung disease,agitation,86,180,high,high,20,female,Summer
+lung disease,irritable mood,86,180,low,high,24,male,Summer
+arthritis,pain,179,180,high,low,24,male,Summer
+arthritis,hemodynamically stable,179,189,medium,medium,24,female,Summer
+arthritis,sleeplessness,179,162,high,high,22,male,Summer
+arthritis,asthenia,179,190,low,low,21,female,Summer
+arthritis,syncope,179,176,high,high,25,male,Summer
+arthritis,swelling,179,171,medium,medium,25,male,Summer
+arthritis,atypia,179,178,high,high,22,male,Summer
+arthritis,general unsteadiness,179,175,high,low,28,male,Summer
+arthritis,shortness of breath,179,165,low,high,20,male,Summer
+arthritis,distended abdomen,179,165,medium,medium,20,female,Summer
+lung disease,lesion,86,194,high,high,19,female,Summer
+lung disease,cough,86,194,low,high,23,male,Summer
+lung disease,lung nodule,86,194,high,low,27,female,Summer
+lung disease,shortness of breath,86,194,medium,medium,31,male,Summer
+lung disease,haemoptysis,86,194,high,high,35,female,Summer
+lung disease,debilitation,86,188,low,low,20,female,Summer
+lung disease,gurgle,86,188,high,high,24,male,Summer
+lung disease,ache,86,188,medium,medium,28,female,Summer
+lung disease,rale,86,188,high,high,32,male,Summer
+lung disease,night sweat,86,172,high,low,37,male,Summer
+lung disease,decreased translucency,86,172,low,high,37,female,Summer
+lung disease,asthenia,86,162,medium,medium,21,female,Summer
+lung disease,metastatic lesion,86,162,high,high,34,male,Summer
+lung disease,agitation,86,169,low,high,25,male,Summer
+lung disease,irritable mood,86,184,high,low,21,female,Summer
+Cancer,mass of body structure,269,184,medium,medium,21,male,Summer
+Cancer,pain,269,184,high,high,21,female,Summer
+Cancer,lesion,269,173,low,low,25,male,Summer
+Cancer,tumor cell invasion,269,162,high,high,19,male,Summer
+Cancer,thicken,269,162,medium,medium,27,male,Winter
+Cancer,decreased body weight,269,162,high,high,27,male,Winter
+Cancer,hoarseness,269,162,high,low,27,female,Winter
+Cancer,general discomfort,269,193,low,high,27,female,Summer
+Cancer,metastatic lesion,269,175,medium,medium,28,female,Summer
+Cancer,non-productive cough,269,148,high,high,16,female,Summer
+Cancer,constipation,269,148,low,high,16,female,Summer
+Cancer,unhappy,269,148,high,low,16,male,Summer
+Cancer,paresthesia,269,148,medium,medium,16,female,Summer
+Cancer,gravida na,269,148,high,high,16,female,Summer
+Cancer,diarrhea,269,148,low,low,16,male,Summer
+Cancer,sore to touch,269,190,high,high,21,female,Summer
+Cancer,heartburn,269,190,medium,medium,25,female,Summer
+Cancer,nausea,269,190,high,high,29,female,Summer
+Cancer,lung nodule,269,171,high,low,23,male,Winter
+psychotic disorder,unsteady gait,68,160,low,high,16,female,Summer
+psychotic disorder,withdraw,68,193,medium,medium,21,male,Summer
+psychotic disorder,hyponatremia,68,187,high,high,24,female,Summer
+psychotic disorder,verbally abusive behavior,68,187,low,high,27,male,Summer
+psychotic disorder,feeling suicidal,68,187,high,low,31,male,Summer
+psychotic disorder,unresponsiveness,68,187,medium,medium,35,female,Summer
+psychotic disorder,worry,68,158,high,high,20,male,Winter
+psychotic disorder,drowsiness,68,173,low,low,24,male,Summer
+psychotic disorder,sleepy,68,173,high,high,28,male,Summer
+psychotic disorder,hallucinations auditory,68,173,medium,medium,28,male,Summer
+psychotic disorder,suicidal,68,181,high,high,30,female,Summer
+psychotic disorder,fever,68,181,high,low,34,female,Summer
+psychotic disorder,diarrhea,68,170,low,high,25,male,Summer
+skin disease ,mass of body structure,87,162,medium,medium,27,female,Winter
+skin disease ,paraparesis,87,162,high,high,27,female,Winter
+skin disease ,fever,87,182,low,high,28,female,Summer
+skin disease ,gravida na,87,195,high,low,31,female,Summer
+skin disease ,pain,87,180,medium,medium,26,male,Summer
+skin disease ,pruritus,87,180,high,high,26,male,Summer
+skin disease ,mass in breast,87,180,low,low,19,female,Summer
+skin disease ,vomiting,87,162,high,high,23,female,Summer
+skin disease ,diarrhea,87,162,medium,medium,23,female,Summer
+kidney disease,hyperkalemia,186,162,high,high,35,male,Summer
+kidney disease,hypotension,186,186,high,low,22,male,Summer
+kidney disease,hypocalcemia result,186,168,low,high,24,female,Summer
+kidney disease,oliguria,186,178,medium,medium,23,male,Winter
+kidney disease,hemodynamically stable,186,178,high,high,31,male,Winter
+kidney disease,asthenia,186,179,low,high,27,male,Summer
+kidney disease,"hypothermia, natural",186,159,high,low,27,male,Summer
+kidney disease,diarrhea,186,185,medium,medium,29,male,Summer
+kidney disease,haemorrhage,186,164,high,high,23,male,Summer
+kidney disease,unresponsiveness,186,193,low,low,24,female,Summer
+diabetes,polyuria,1421,193,high,high,32,male,Summer
+diabetes,polydypsia,1421,167,medium,medium,19,female,Summer
+diabetes,shortness of breath,1421,162,high,high,18,male,Summer
+diabetes,pain chest,1421,184,high,low,22,male,Summer
+diabetes,asthenia,1421,163,low,high,39,female,Summer
+diabetes,nausea,1421,163,medium,medium,47,male,Summer
+diabetes,orthopnea,1421,162,high,high,22,male,Summer
+diabetes,rale,1421,166,low,high,24,female,Winter
+diabetes,sweat,1421,170,high,low,23,female,Summer
+diabetes,sweating increased,1421,180,medium,medium,23,male,Summer
+diabetes,unresponsiveness,1421,180,high,high,31,female,Summer
+diabetes,mental status changes,1421,162,low,low,22,male,Summer
+diabetes,vertigo,1421,163,high,high,23,male,Summer
+diabetes,vomiting,1421,163,medium,medium,23,female,Summer
+diabetes,labored breathing,1421,163,high,high,27,male,Summer
+systemic infection,fever,311,180,high,low,25,female,Summer
+systemic infection,distress respiratory,311,162,low,high,47,female,Summer
+systemic infection,hypotension,311,172,medium,medium,21,male,Summer
+systemic infection,tachypnea,311,168,high,high,21,female,Summer
+systemic infection,chill,311,184,low,high,20,male,Summer
+systemic infection,lethargy,311,184,high,low,24,male,Summer
+systemic infection,bradycardia,311,184,medium,medium,28,female,Summer
+systemic infection,breech presentation,311,167,high,high,21,male,Summer
+systemic infection,cyanosis,311,167,low,low,25,male,Summer
+systemic infection,spontaneous rupture of membranes,311,170,high,high,18,male,Summer
+systemic infection,haemorrhage,311,162,medium,medium,34,female,Winter
+systemic infection,unresponsiveness,311,162,high,high,19,male,Summer
+systemic infection,rale,311,175,high,low,23,male,Summer
+systemic infection,apyrexial,311,180,low,high,29,female,Summer
+malignant neoplasms,pain,90,186,medium,medium,26,male,Summer
+malignant neoplasms,mass of body structure,90,176,high,high,22,female,Summer
+malignant neoplasms,lesion,90,176,low,high,22,male,Summer
+malignant neoplasms,cushingoid facies,90,194,high,low,18,female,Summer
+malignant neoplasms,cushingoid habitus,90,194,medium,medium,18,female,Summer
+malignant neoplasms,emphysematous change,90,187,high,high,17,female,Summer
+malignant neoplasms,decreased body weight,90,187,low,low,17,male,Summer
+malignant neoplasms,ascites,90,187,high,high,21,male,Summer
+malignant neoplasms,hoarseness,90,177,medium,medium,28,male,Summer
+malignant neoplasms,thicken,90,173,high,high,18,male,Summer
+malignant neoplasms,hematuria,90,160,high,low,20,male,Summer
+malignant neoplasms,pulsus paradoxus,90,162,low,high,17,male,Summer
+malignant neoplasms,gravida na,90,162,medium,medium,21,female,Summer
+malignant neoplasms,mass of body structure,90,193,high,high,21,male,Summer
+malignant neoplasms,lesion,90,190,low,high,27,female,Summer
+malignant neoplasms,heartburn,90,177,high,low,25,female,Summer
+malignant neoplasms,night sweat,90,177,medium,medium,29,female,Summer
+malignant neoplasms,thicken,90,171,high,high,27,female,Summer
+malignant neoplasms,chill,90,170,low,low,22,male,Summer
+malignant neoplasms,decreased translucency,90,170,high,high,26,female,Summer
+malignant neoplasms,pain abdominal,90,170,medium,medium,30,female,Summer
+malignant neoplasms,dullness,90,168,high,high,18,female,Summer
+malignant neoplasms,food intolerance,90,162,high,low,34,male,Summer
+malignant neoplasms,distress respiratory,90,172,low,high,21,male,Summer
+malignant neoplasms,hypotension,90,172,medium,medium,29,male,Summer
+brain disease,asthenia,99,172,high,high,33,male,Summer
+brain disease,numbness,99,171,low,high,22,female,Summer
+brain disease,nausea and vomiting,99,175,high,low,20,female,Winter
+brain disease,awakening early,99,162,medium,medium,25,female,Winter
+brain disease,hydropneumothorax,99,162,high,high,25,male,Winter
+brain disease,superimposition,99,162,low,low,25,male,Winter
+brain disease,fatigability,99,162,high,high,29,female,Winter
+brain disease,tenesmus,99,162,medium,medium,29,male,Winter
+brain disease,pain,99,162,high,high,29,female,Winter
+brain disease,slowing of urinary stream,99,202,high,high,20,female,Summer
+liver disease,rale,144,202,low,low,20,male,Summer
+liver disease,jugular venous distention,144,202,medium,medium,20,male,Summer
+liver disease,hyperkalemia,144,202,high,high,20,male,Summer
+liver disease,orthopnea,144,202,low,low,20,male,Summer
+liver disease,shortness of breath,144,202,high,high,24,male,Summer
+liver disease,drowsiness,144,162,medium,medium,17,female,Summer
+liver disease,sleepy,144,162,high,high,17,female,Summer
+liver disease,weight gain,144,162,low,low,21,male,Summer
+liver disease,hypokalemia,144,162,high,high,21,female,Summer
+liver disease,hypotension,144,162,medium,medium,21,female,Summer
+liver disease,swelling,144,165,high,high,20,female,Summer
+liver disease,distended abdomen,144,162,high,high,20,female,Summer
+brain disease,ambidexterity,61,182,low,low,27,male,Summer
+brain disease,vomiting,61,175,medium,medium,32,female,Summer
+brain disease,dizziness,61,162,high,high,20,male,Summer
+brain disease,numbness,61,173,low,low,20,female,Summer
+brain disease,nausea,61,168,high,high,24,female,Winter
+brain disease,fever,61,168,medium,medium,17,male,Winter
+brain disease,splenomegaly,61,168,high,high,17,male,Winter
