@@ -1,1 +1,11 @@
-# DiseasePrediction_Manual_Model_building
+# Disease Prediction Manual Model building
+
+### Abstract: 
+The inability of a human being to process huge amounts of information, analyze it, and apply it to particular disease diagnosis can lead to medical diagnostic errors. In this study, we want to build a chatbot that patients can interact with and based on patients' entered responses it will then predict a disease. The study uses MCA, KModes, built-in cloud technologies (Azure Auto ML), Decision Tree, Gradient Boosting, Random Forest, and XGBoost models to explore the research question. MCA and KModes were performed, it showed the relationship among categorical variables and how they are clustered together. XGboost classifier was used as a final mode for our front-end application. The application was successfully predicting a users’ disease.  
+
+ Introduction:
+The major aim of this project is to create a platform to automate disease diagnosis. Keeping in mind that a system developed won’t take over the job of an actual human doctor but would assist the doctors to do their job easily. This area has huge potential, given the fact that we have doctors but their availability in certain areas is low. There are only 6,000 diseases, out of which there are 1,000 that are common. There are about 50,000 signs and symptoms of these diseases. There are 100,000 types of lab reports. Matching these to diagnose a disease can be done by any software very easily, which takes a doctor years to practice. There is recent research in China, that a robot passed the Medical Licensing Doctor Exam which potential doctors pass with years of studying.  
+There are some key reasons why we need disease diagnosis to be done by machines:
+Every year 195,000 patients in the US die of medical diagnostic errors.
+Inability of a human being to process huge amounts of information, analyze it, and apply it to a particular disease diagnosis. The cloning of an expert robot is cheap and fast compared to a doctor, where the cloning of expert human doctors is forbidden by law in many countries.
+Our main aim from this project is to create a platform that can help doctors in disease diagnosis and to help individuals to cure disease in the early stage. Most models out in the market are trained with a large amount of data, for the project we aim to do it on the data we have.  We believe our system will help doctors to aid their decision-making abilities for disease diagnostics.
